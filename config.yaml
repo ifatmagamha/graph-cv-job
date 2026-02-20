@@ -1,0 +1,70 @@
+# ===============================
+# DATA PATHS
+# ===============================
+
+data:
+  raw_cv_path: "data/raw/cv_raw.csv"
+  raw_job_path: "data/raw/job_raw.csv"
+  raw_edges_path: "data/raw/matches_raw.csv"
+
+  processed_cv_path: "data/processed/cv_clean.csv"
+  processed_job_path: "data/processed/job_clean.csv"
+  processed_edges_path: "data/processed/edges.csv"
+
+  cv_embeddings_path: "data/embeddings/cv_embeddings.npy"
+  job_embeddings_path: "data/embeddings/job_embeddings.npy"
+
+
+# ===============================
+# GRAPH PARAMETERS
+# ===============================
+
+graph:
+  bipartite: true
+  community_algorithm: "louvain"
+  projection_type: "cv"   # options: cv, job
+
+
+# ===============================
+# EMBEDDING PARAMETERS
+# ===============================
+
+embedding:
+  model_name: "all-MiniLM-L6-v2"
+  batch_size: 32
+  similarity_metric: "cosine"
+
+
+# ===============================
+# LINK PREDICTION
+# ===============================
+
+link_prediction:
+  structural_methods:
+    - "common_neighbors"
+    - "adamic_adar"
+    - "katz"
+
+  top_k: 10
+  similarity_threshold: 0.75
+
+
+# ===============================
+# CLASSIFICATION
+# ===============================
+
+classification:
+  model_type: "random_forest"   # options: logistic, rf, xgboost
+  test_size: 0.2
+  random_state: 42
+  use_embeddings: true
+  use_graph_features: true
+
+
+# ===============================
+# TRAINING
+# ===============================
+
+training:
+  n_estimators: 200
+  max_depth: 10

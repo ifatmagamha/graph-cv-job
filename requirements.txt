@@ -1,0 +1,39 @@
+# ===============================
+# Core
+# ===============================
+numpy
+pandas
+scipy
+
+# ===============================
+# Graph Mining
+# ===============================
+networkx
+python-louvain
+
+# ===============================
+# Machine Learning
+# ===============================
+scikit-learn
+xgboost
+
+# ===============================
+# NLP / Embeddings
+# ===============================
+sentence-transformers
+transformers
+torch
+
+# ===============================
+# Visualization
+# ===============================
+matplotlib
+seaborn
+plotly
+
+# ===============================
+# Utilities
+# ===============================
+tqdm
+pyyaml
+joblib
