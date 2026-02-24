@@ -1,0 +1,11 @@
+{
+  "n_nodes": 390,
+  "n_edges": 1200,
+  "density": 0.015819655922483685,
+  "n_components": 1,
+  "largest_component": 390,
+  "avg_degree_cv": 4.0,
+  "avg_degree_job": 13.333333333333334,
+  "max_degree_cv": 4,
+  "max_degree_job": 29
+}

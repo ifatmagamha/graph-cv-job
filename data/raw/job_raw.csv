@@ -1,0 +1,881 @@
+job_id,text,skills,level_required,domain
+JOB_0000,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- linux
+- risk assessment
+- firewalls
+- penetration testing
+- network security
+- cryptography
+- english
+Nice to have: reporting, presentation. Location: Hybrid.","linux, risk assessment, firewalls, penetration testing, network security, cryptography, english",junior,cybersecurity
+JOB_0001,"Job Offer: intermediate position in cybersecurity. We are looking for a candidate with the following requirements:
+- siem
+- linux
+- penetration testing
+- risk assessment
+- network security
+- firewalls
+- cryptography
+- incident response
+Nice to have: reporting, presentation. Location: Hybrid.","siem, linux, penetration testing, risk assessment, network security, firewalls, cryptography, incident response, teamwork",intermediate,cybersecurity
+JOB_0002,"Job Offer: intermediate position in cybersecurity. We are looking for a candidate with the following requirements:
+- penetration testing
+- incident response
+- risk assessment
+- cryptography
+- siem
+- network security
+- linux
+- firewalls
+Nice to have: reporting, presentation. Location: Hybrid.","penetration testing, incident response, risk assessment, cryptography, siem, network security, linux, firewalls, reporting",intermediate,cybersecurity
+JOB_0003,"Job Offer: intermediate position in data. We are looking for a candidate with the following requirements:
+- machine learning
+- data visualization
+- power bi
+- python
+- tableau
+- sql
+- pandas
+- numpy
+Nice to have: reporting, presentation. Location: Hybrid.","machine learning, data visualization, power bi, python, tableau, sql, pandas, numpy, problem solving, presentation",intermediate,data
+JOB_0004,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- risk assessment
+- penetration testing
+- cryptography
+- network security
+- firewalls
+- siem
+- english
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","risk assessment, penetration testing, cryptography, network security, firewalls, siem, english, teamwork",junior,cybersecurity
+JOB_0005,"Job Offer: intermediate position in design. We are looking for a candidate with the following requirements:
+- typography
+- figma
+- adobe illustrator
+- ux research
+- design systems
+- wireframing
+- ui design
+- adobe photoshop
+Nice to have: reporting, presentation. Location: Hybrid.","typography, figma, adobe illustrator, ux research, design systems, wireframing, ui design, adobe photoshop, communication, reporting",intermediate,design
+JOB_0006,"Job Offer: intermediate position in management. We are looking for a candidate with the following requirements:
+- leadership
+- stakeholder management
+- project management
+- scrum
+- agile
+- budgeting
+- planning
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","leadership, stakeholder management, project management, scrum, agile, budgeting, planning, communication, reporting",intermediate,management
+JOB_0007,"Job Offer: junior position in marketing. We are looking for a candidate with the following requirements:
+- content marketing
+- branding
+- crm
+- email marketing
+- social media
+- seo
+- reporting
+Nice to have: reporting, presentation. Location: Hybrid.","content marketing, branding, crm, email marketing, social media, seo, reporting",junior,marketing
+JOB_0008,"Job Offer: intermediate position in management. We are looking for a candidate with the following requirements:
+- budgeting
+- planning
+- project management
+- agile
+- leadership
+- communication
+- scrum
+- stakeholder management
+Nice to have: reporting, presentation. Location: Hybrid.","budgeting, planning, project management, agile, leadership, communication, scrum, stakeholder management",intermediate,management
+JOB_0009,"Job Offer: junior position in data. We are looking for a candidate with the following requirements:
+- pandas
+- power bi
+- sql
+- tableau
+- etl
+- machine learning
+- english
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","pandas, power bi, sql, tableau, etl, machine learning, english, presentation",junior,data
+JOB_0010,"Job Offer: junior position in design. We are looking for a candidate with the following requirements:
+- adobe illustrator
+- figma
+- typography
+- wireframing
+- adobe photoshop
+- ux research
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","adobe illustrator, figma, typography, wireframing, adobe photoshop, ux research, presentation",junior,design
+JOB_0011,"Job Offer: junior position in marketing. We are looking for a candidate with the following requirements:
+- content marketing
+- google analytics
+- copywriting
+- seo
+- email marketing
+- social media
+- reporting
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","content marketing, google analytics, copywriting, seo, email marketing, social media, reporting, communication",junior,marketing
+JOB_0012,"Job Offer: intermediate position in cybersecurity. We are looking for a candidate with the following requirements:
+- risk assessment
+- incident response
+- firewalls
+- network security
+- cryptography
+- penetration testing
+- siem
+- linux
+Nice to have: reporting, presentation. Location: Hybrid.","risk assessment, incident response, firewalls, network security, cryptography, penetration testing, siem, linux, reporting, problem solving",intermediate,cybersecurity
+JOB_0013,"Job Offer: junior position in design. We are looking for a candidate with the following requirements:
+- adobe illustrator
+- figma
+- adobe photoshop
+- design systems
+- ui design
+- wireframing
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","adobe illustrator, figma, adobe photoshop, design systems, ui design, wireframing, communication",junior,design
+JOB_0014,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- content marketing
+- google analytics
+- branding
+- email marketing
+- crm
+- social media
+- seo
+- copywriting
+Nice to have: reporting, presentation. Location: Hybrid.","content marketing, google analytics, branding, email marketing, crm, social media, seo, copywriting, teamwork",intermediate,marketing
+JOB_0015,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- social media
+- seo
+- content marketing
+- copywriting
+- email marketing
+- google analytics
+- crm
+- branding
+Nice to have: reporting, presentation. Location: Hybrid.","social media, seo, content marketing, copywriting, email marketing, google analytics, crm, branding, presentation, communication",intermediate,marketing
+JOB_0016,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- risk assessment
+- siem
+- firewalls
+- linux
+- penetration testing
+- network security
+- reporting
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","risk assessment, siem, firewalls, linux, penetration testing, network security, reporting, communication",junior,cybersecurity
+JOB_0017,"Job Offer: junior position in software. We are looking for a candidate with the following requirements:
+- linux
+- rest api
+- docker
+- testing
+- cloud
+- java
+- problem solving
+- english
+Nice to have: reporting, presentation. Location: Hybrid.","linux, rest api, docker, testing, cloud, java, problem solving, english",junior,software
+JOB_0018,"Job Offer: junior position in software. We are looking for a candidate with the following requirements:
+- git
+- cloud
+- microservices
+- javascript
+- linux
+- java
+- english
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","git, cloud, microservices, javascript, linux, java, english, presentation",junior,software
+JOB_0019,"Job Offer: junior position in finance. We are looking for a candidate with the following requirements:
+- forecasting
+- risk analysis
+- business intelligence
+- excel
+- financial modeling
+- accounting
+- problem solving
+Nice to have: reporting, presentation. Location: Hybrid.","forecasting, risk analysis, business intelligence, excel, financial modeling, accounting, problem solving",junior,finance
+JOB_0020,"Job Offer: intermediate position in management. We are looking for a candidate with the following requirements:
+- stakeholder management
+- scrum
+- planning
+- project management
+- communication
+- leadership
+- budgeting
+- agile
+Nice to have: reporting, presentation. Location: Hybrid.","stakeholder management, scrum, planning, project management, communication, leadership, budgeting, agile",intermediate,management
+JOB_0021,"Job Offer: junior position in marketing. We are looking for a candidate with the following requirements:
+- branding
+- crm
+- content marketing
+- google analytics
+- social media
+- seo
+- teamwork
+- english
+Nice to have: reporting, presentation. Location: Hybrid.","branding, crm, content marketing, google analytics, social media, seo, teamwork, english",junior,marketing
+JOB_0022,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- email marketing
+- google analytics
+- copywriting
+- seo
+- content marketing
+- branding
+- crm
+- social media
+Nice to have: reporting, presentation. Location: Hybrid.","email marketing, google analytics, copywriting, seo, content marketing, branding, crm, social media, teamwork, presentation",intermediate,marketing
+JOB_0023,"Job Offer: senior position in marketing. We are looking for a candidate with the following requirements:
+- google analytics
+- crm
+- email marketing
+- social media
+- branding
+- seo
+- copywriting
+- content marketing
+Nice to have: reporting, presentation. Location: Hybrid.","google analytics, crm, email marketing, social media, branding, seo, copywriting, content marketing, communication",senior,marketing
+JOB_0024,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- network security
+- cryptography
+- linux
+- penetration testing
+- siem
+- firewalls
+- english
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","network security, cryptography, linux, penetration testing, siem, firewalls, english, communication",junior,cybersecurity
+JOB_0025,"Job Offer: senior position in data. We are looking for a candidate with the following requirements:
+- numpy
+- sql
+- pandas
+- data visualization
+- tableau
+- machine learning
+- power bi
+- statistics
+Nice to have: reporting, presentation. Location: Hybrid.","numpy, sql, pandas, data visualization, tableau, machine learning, power bi, statistics, etl, python, reporting",senior,data
+JOB_0026,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- incident response
+- penetration testing
+- risk assessment
+- siem
+- firewalls
+- linux
+- reporting
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","incident response, penetration testing, risk assessment, siem, firewalls, linux, reporting, communication",junior,cybersecurity
+JOB_0027,"Job Offer: senior position in marketing. We are looking for a candidate with the following requirements:
+- branding
+- content marketing
+- email marketing
+- seo
+- google analytics
+- copywriting
+- social media
+- crm
+Nice to have: reporting, presentation. Location: Hybrid.","branding, content marketing, email marketing, seo, google analytics, copywriting, social media, crm, problem solving",senior,marketing
+JOB_0028,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- content marketing
+- crm
+- branding
+- social media
+- google analytics
+- copywriting
+- seo
+- email marketing
+Nice to have: reporting, presentation. Location: Hybrid.","content marketing, crm, branding, social media, google analytics, copywriting, seo, email marketing, english, teamwork",intermediate,marketing
+JOB_0029,"Job Offer: junior position in marketing. We are looking for a candidate with the following requirements:
+- email marketing
+- seo
+- content marketing
+- branding
+- crm
+- google analytics
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","email marketing, seo, content marketing, branding, crm, google analytics, teamwork",junior,marketing
+JOB_0030,"Job Offer: intermediate position in design. We are looking for a candidate with the following requirements:
+- ux research
+- figma
+- ui design
+- design systems
+- adobe illustrator
+- adobe photoshop
+- typography
+- wireframing
+Nice to have: reporting, presentation. Location: Hybrid.","ux research, figma, ui design, design systems, adobe illustrator, adobe photoshop, typography, wireframing, communication, teamwork",intermediate,design
+JOB_0031,"Job Offer: intermediate position in finance. We are looking for a candidate with the following requirements:
+- business intelligence
+- sql
+- risk analysis
+- financial modeling
+- forecasting
+- powerpoint
+- excel
+- accounting
+Nice to have: reporting, presentation. Location: Hybrid.","business intelligence, sql, risk analysis, financial modeling, forecasting, powerpoint, excel, accounting, teamwork, problem solving",intermediate,finance
+JOB_0032,"Job Offer: intermediate position in finance. We are looking for a candidate with the following requirements:
+- financial modeling
+- business intelligence
+- risk analysis
+- powerpoint
+- sql
+- excel
+- accounting
+- forecasting
+Nice to have: reporting, presentation. Location: Hybrid.","financial modeling, business intelligence, risk analysis, powerpoint, sql, excel, accounting, forecasting, teamwork, reporting",intermediate,finance
+JOB_0033,"Job Offer: junior position in data. We are looking for a candidate with the following requirements:
+- tableau
+- python
+- sql
+- power bi
+- statistics
+- etl
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","tableau, python, sql, power bi, statistics, etl, presentation",junior,data
+JOB_0034,"Job Offer: junior position in design. We are looking for a candidate with the following requirements:
+- wireframing
+- ux research
+- figma
+- adobe photoshop
+- typography
+- adobe illustrator
+- english
+- problem solving
+Nice to have: reporting, presentation. Location: Hybrid.","wireframing, ux research, figma, adobe photoshop, typography, adobe illustrator, english, problem solving",junior,design
+JOB_0035,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- content marketing
+- social media
+- branding
+- google analytics
+- email marketing
+- seo
+- copywriting
+- crm
+Nice to have: reporting, presentation. Location: Hybrid.","content marketing, social media, branding, google analytics, email marketing, seo, copywriting, crm, problem solving, teamwork",intermediate,marketing
+JOB_0036,"Job Offer: intermediate position in data. We are looking for a candidate with the following requirements:
+- python
+- power bi
+- sql
+- pandas
+- tableau
+- statistics
+- etl
+- machine learning
+Nice to have: reporting, presentation. Location: Hybrid.","python, power bi, sql, pandas, tableau, statistics, etl, machine learning, english, problem solving",intermediate,data
+JOB_0037,"Job Offer: junior position in data. We are looking for a candidate with the following requirements:
+- tableau
+- pandas
+- power bi
+- data visualization
+- etl
+- statistics
+- reporting
+- problem solving
+Nice to have: reporting, presentation. Location: Hybrid.","tableau, pandas, power bi, data visualization, etl, statistics, reporting, problem solving",junior,data
+JOB_0038,"Job Offer: junior position in design. We are looking for a candidate with the following requirements:
+- typography
+- design systems
+- adobe photoshop
+- adobe illustrator
+- wireframing
+- figma
+- reporting
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","typography, design systems, adobe photoshop, adobe illustrator, wireframing, figma, reporting, presentation",junior,design
+JOB_0039,"Job Offer: junior position in finance. We are looking for a candidate with the following requirements:
+- forecasting
+- business intelligence
+- accounting
+- risk analysis
+- financial modeling
+- powerpoint
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","forecasting, business intelligence, accounting, risk analysis, financial modeling, powerpoint, presentation",junior,finance
+JOB_0040,"Job Offer: junior position in software. We are looking for a candidate with the following requirements:
+- javascript
+- java
+- git
+- docker
+- linux
+- cloud
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","javascript, java, git, docker, linux, cloud, teamwork",junior,software
+JOB_0041,"Job Offer: senior position in finance. We are looking for a candidate with the following requirements:
+- excel
+- sql
+- business intelligence
+- financial modeling
+- risk analysis
+- accounting
+- forecasting
+- powerpoint
+Nice to have: reporting, presentation. Location: Hybrid.","excel, sql, business intelligence, financial modeling, risk analysis, accounting, forecasting, powerpoint, problem solving",senior,finance
+JOB_0042,"Job Offer: junior position in software. We are looking for a candidate with the following requirements:
+- cloud
+- python
+- microservices
+- git
+- docker
+- rest api
+- presentation
+- reporting
+Nice to have: reporting, presentation. Location: Hybrid.","cloud, python, microservices, git, docker, rest api, presentation, reporting",junior,software
+JOB_0043,"Job Offer: senior position in data. We are looking for a candidate with the following requirements:
+- machine learning
+- etl
+- power bi
+- python
+- sql
+- pandas
+- tableau
+- data visualization
+Nice to have: reporting, presentation. Location: Hybrid.","machine learning, etl, power bi, python, sql, pandas, tableau, data visualization, statistics, numpy, presentation",senior,data
+JOB_0044,"Job Offer: junior position in data. We are looking for a candidate with the following requirements:
+- python
+- machine learning
+- sql
+- power bi
+- statistics
+- data visualization
+- english
+- reporting
+Nice to have: reporting, presentation. Location: Hybrid.","python, machine learning, sql, power bi, statistics, data visualization, english, reporting",junior,data
+JOB_0045,"Job Offer: intermediate position in software. We are looking for a candidate with the following requirements:
+- java
+- cloud
+- docker
+- rest api
+- linux
+- microservices
+- javascript
+- testing
+Nice to have: reporting, presentation. Location: Hybrid.","java, cloud, docker, rest api, linux, microservices, javascript, testing, teamwork, reporting",intermediate,software
+JOB_0046,"Job Offer: intermediate position in software. We are looking for a candidate with the following requirements:
+- microservices
+- python
+- docker
+- java
+- git
+- linux
+- testing
+- javascript
+Nice to have: reporting, presentation. Location: Hybrid.","microservices, python, docker, java, git, linux, testing, javascript, reporting",intermediate,software
+JOB_0047,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- linux
+- firewalls
+- penetration testing
+- siem
+- cryptography
+- incident response
+- english
+- reporting
+Nice to have: reporting, presentation. Location: Hybrid.","linux, firewalls, penetration testing, siem, cryptography, incident response, english, reporting",junior,cybersecurity
+JOB_0048,"Job Offer: intermediate position in finance. We are looking for a candidate with the following requirements:
+- powerpoint
+- sql
+- risk analysis
+- business intelligence
+- excel
+- financial modeling
+- forecasting
+- accounting
+Nice to have: reporting, presentation. Location: Hybrid.","powerpoint, sql, risk analysis, business intelligence, excel, financial modeling, forecasting, accounting, english",intermediate,finance
+JOB_0049,"Job Offer: intermediate position in design. We are looking for a candidate with the following requirements:
+- typography
+- adobe illustrator
+- wireframing
+- ui design
+- ux research
+- adobe photoshop
+- design systems
+- figma
+Nice to have: reporting, presentation. Location: Hybrid.","typography, adobe illustrator, wireframing, ui design, ux research, adobe photoshop, design systems, figma, teamwork, problem solving",intermediate,design
+JOB_0050,"Job Offer: junior position in data. We are looking for a candidate with the following requirements:
+- numpy
+- sql
+- machine learning
+- statistics
+- etl
+- tableau
+- reporting
+Nice to have: reporting, presentation. Location: Hybrid.","numpy, sql, machine learning, statistics, etl, tableau, reporting",junior,data
+JOB_0051,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- incident response
+- risk assessment
+- cryptography
+- linux
+- penetration testing
+- siem
+- problem solving
+Nice to have: reporting, presentation. Location: Hybrid.","incident response, risk assessment, cryptography, linux, penetration testing, siem, problem solving",junior,cybersecurity
+JOB_0052,"Job Offer: junior position in software. We are looking for a candidate with the following requirements:
+- git
+- rest api
+- javascript
+- microservices
+- python
+- testing
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","git, rest api, javascript, microservices, python, testing, presentation",junior,software
+JOB_0053,"Job Offer: intermediate position in design. We are looking for a candidate with the following requirements:
+- figma
+- wireframing
+- adobe photoshop
+- design systems
+- typography
+- ui design
+- ux research
+- adobe illustrator
+Nice to have: reporting, presentation. Location: Hybrid.","figma, wireframing, adobe photoshop, design systems, typography, ui design, ux research, adobe illustrator, english, teamwork",intermediate,design
+JOB_0054,"Job Offer: senior position in management. We are looking for a candidate with the following requirements:
+- communication
+- stakeholder management
+- agile
+- leadership
+- planning
+- project management
+- budgeting
+- scrum
+Nice to have: reporting, presentation. Location: Hybrid.","communication, stakeholder management, agile, leadership, planning, project management, budgeting, scrum, reporting",senior,management
+JOB_0055,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- siem
+- incident response
+- network security
+- penetration testing
+- firewalls
+- linux
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","siem, incident response, network security, penetration testing, firewalls, linux, communication",junior,cybersecurity
+JOB_0056,"Job Offer: junior position in design. We are looking for a candidate with the following requirements:
+- ui design
+- ux research
+- wireframing
+- adobe photoshop
+- adobe illustrator
+- figma
+- teamwork
+- problem solving
+Nice to have: reporting, presentation. Location: Hybrid.","ui design, ux research, wireframing, adobe photoshop, adobe illustrator, figma, teamwork, problem solving",junior,design
+JOB_0057,"Job Offer: senior position in finance. We are looking for a candidate with the following requirements:
+- powerpoint
+- accounting
+- financial modeling
+- risk analysis
+- forecasting
+- excel
+- business intelligence
+- sql
+Nice to have: reporting, presentation. Location: Hybrid.","powerpoint, accounting, financial modeling, risk analysis, forecasting, excel, business intelligence, sql, english, problem solving",senior,finance
+JOB_0058,"Job Offer: junior position in finance. We are looking for a candidate with the following requirements:
+- accounting
+- forecasting
+- powerpoint
+- financial modeling
+- excel
+- business intelligence
+- teamwork
+- reporting
+Nice to have: reporting, presentation. Location: Hybrid.","accounting, forecasting, powerpoint, financial modeling, excel, business intelligence, teamwork, reporting",junior,finance
+JOB_0059,"Job Offer: senior position in finance. We are looking for a candidate with the following requirements:
+- risk analysis
+- financial modeling
+- powerpoint
+- sql
+- business intelligence
+- excel
+- accounting
+- forecasting
+Nice to have: reporting, presentation. Location: Hybrid.","risk analysis, financial modeling, powerpoint, sql, business intelligence, excel, accounting, forecasting, teamwork, reporting",senior,finance
+JOB_0060,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- branding
+- google analytics
+- email marketing
+- copywriting
+- seo
+- content marketing
+- social media
+- crm
+Nice to have: reporting, presentation. Location: Hybrid.","branding, google analytics, email marketing, copywriting, seo, content marketing, social media, crm, teamwork",intermediate,marketing
+JOB_0061,"Job Offer: junior position in management. We are looking for a candidate with the following requirements:
+- agile
+- stakeholder management
+- planning
+- scrum
+- communication
+- leadership
+- reporting
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","agile, stakeholder management, planning, scrum, communication, leadership, reporting, presentation",junior,management
+JOB_0062,"Job Offer: junior position in management. We are looking for a candidate with the following requirements:
+- project management
+- stakeholder management
+- leadership
+- scrum
+- agile
+- communication
+- problem solving
+Nice to have: reporting, presentation. Location: Hybrid.","project management, stakeholder management, leadership, scrum, agile, communication, problem solving",junior,management
+JOB_0063,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- risk assessment
+- firewalls
+- cryptography
+- incident response
+- network security
+- linux
+- english
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","risk assessment, firewalls, cryptography, incident response, network security, linux, english, teamwork",junior,cybersecurity
+JOB_0064,"Job Offer: junior position in management. We are looking for a candidate with the following requirements:
+- planning
+- stakeholder management
+- leadership
+- communication
+- budgeting
+- project management
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","planning, stakeholder management, leadership, communication, budgeting, project management, teamwork",junior,management
+JOB_0065,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- cryptography
+- risk assessment
+- siem
+- firewalls
+- incident response
+- linux
+- problem solving
+- reporting
+Nice to have: reporting, presentation. Location: Hybrid.","cryptography, risk assessment, siem, firewalls, incident response, linux, problem solving, reporting",junior,cybersecurity
+JOB_0066,"Job Offer: senior position in marketing. We are looking for a candidate with the following requirements:
+- email marketing
+- content marketing
+- branding
+- seo
+- crm
+- google analytics
+- copywriting
+- social media
+Nice to have: reporting, presentation. Location: Hybrid.","email marketing, content marketing, branding, seo, crm, google analytics, copywriting, social media, teamwork",senior,marketing
+JOB_0067,"Job Offer: junior position in software. We are looking for a candidate with the following requirements:
+- java
+- cloud
+- linux
+- docker
+- python
+- rest api
+- reporting
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","java, cloud, linux, docker, python, rest api, reporting, communication",junior,software
+JOB_0068,"Job Offer: junior position in data. We are looking for a candidate with the following requirements:
+- machine learning
+- sql
+- data visualization
+- tableau
+- power bi
+- numpy
+- english
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","machine learning, sql, data visualization, tableau, power bi, numpy, english, teamwork",junior,data
+JOB_0069,"Job Offer: intermediate position in software. We are looking for a candidate with the following requirements:
+- javascript
+- python
+- testing
+- rest api
+- cloud
+- microservices
+- git
+- java
+Nice to have: reporting, presentation. Location: Hybrid.","javascript, python, testing, rest api, cloud, microservices, git, java, reporting, english",intermediate,software
+JOB_0070,"Job Offer: senior position in software. We are looking for a candidate with the following requirements:
+- testing
+- javascript
+- linux
+- rest api
+- microservices
+- docker
+- git
+- cloud
+Nice to have: reporting, presentation. Location: Hybrid.","testing, javascript, linux, rest api, microservices, docker, git, cloud, java, python, reporting, teamwork",senior,software
+JOB_0071,"Job Offer: junior position in management. We are looking for a candidate with the following requirements:
+- communication
+- scrum
+- stakeholder management
+- budgeting
+- agile
+- planning
+Nice to have: reporting, presentation. Location: Hybrid.","communication, scrum, stakeholder management, budgeting, agile, planning",junior,management
+JOB_0072,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- google analytics
+- branding
+- email marketing
+- social media
+- seo
+- crm
+- content marketing
+- copywriting
+Nice to have: reporting, presentation. Location: Hybrid.","google analytics, branding, email marketing, social media, seo, crm, content marketing, copywriting, communication, english",intermediate,marketing
+JOB_0073,"Job Offer: junior position in management. We are looking for a candidate with the following requirements:
+- stakeholder management
+- budgeting
+- project management
+- communication
+- scrum
+- planning
+- reporting
+- english
+Nice to have: reporting, presentation. Location: Hybrid.","stakeholder management, budgeting, project management, communication, scrum, planning, reporting, english",junior,management
+JOB_0074,"Job Offer: junior position in finance. We are looking for a candidate with the following requirements:
+- sql
+- business intelligence
+- risk analysis
+- financial modeling
+- accounting
+- excel
+- presentation
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","sql, business intelligence, risk analysis, financial modeling, accounting, excel, presentation, teamwork",junior,finance
+JOB_0075,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- copywriting
+- google analytics
+- crm
+- branding
+- email marketing
+- content marketing
+- seo
+- social media
+Nice to have: reporting, presentation. Location: Hybrid.","copywriting, google analytics, crm, branding, email marketing, content marketing, seo, social media, teamwork",intermediate,marketing
+JOB_0076,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- risk assessment
+- penetration testing
+- incident response
+- siem
+- cryptography
+- network security
+- communication
+- teamwork
+Nice to have: reporting, presentation. Location: Hybrid.","risk assessment, penetration testing, incident response, siem, cryptography, network security, communication, teamwork",junior,cybersecurity
+JOB_0077,"Job Offer: senior position in data. We are looking for a candidate with the following requirements:
+- python
+- machine learning
+- sql
+- power bi
+- data visualization
+- etl
+- statistics
+- numpy
+Nice to have: reporting, presentation. Location: Hybrid.","python, machine learning, sql, power bi, data visualization, etl, statistics, numpy, tableau, pandas, teamwork",senior,data
+JOB_0078,"Job Offer: intermediate position in data. We are looking for a candidate with the following requirements:
+- numpy
+- data visualization
+- pandas
+- power bi
+- statistics
+- machine learning
+- tableau
+- etl
+Nice to have: reporting, presentation. Location: Hybrid.","numpy, data visualization, pandas, power bi, statistics, machine learning, tableau, etl, problem solving",intermediate,data
+JOB_0079,"Job Offer: intermediate position in data. We are looking for a candidate with the following requirements:
+- machine learning
+- python
+- pandas
+- data visualization
+- statistics
+- power bi
+- numpy
+- etl
+Nice to have: reporting, presentation. Location: Hybrid.","machine learning, python, pandas, data visualization, statistics, power bi, numpy, etl, problem solving",intermediate,data
+JOB_0080,"Job Offer: junior position in management. We are looking for a candidate with the following requirements:
+- project management
+- leadership
+- planning
+- agile
+- stakeholder management
+- communication
+- presentation
+Nice to have: reporting, presentation. Location: Hybrid.","project management, leadership, planning, agile, stakeholder management, communication, presentation",junior,management
+JOB_0081,"Job Offer: junior position in data. We are looking for a candidate with the following requirements:
+- sql
+- power bi
+- statistics
+- etl
+- data visualization
+- machine learning
+- teamwork
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","sql, power bi, statistics, etl, data visualization, machine learning, teamwork, communication",junior,data
+JOB_0082,"Job Offer: senior position in design. We are looking for a candidate with the following requirements:
+- ui design
+- ux research
+- typography
+- wireframing
+- design systems
+- adobe illustrator
+- figma
+- adobe photoshop
+Nice to have: reporting, presentation. Location: Hybrid.","ui design, ux research, typography, wireframing, design systems, adobe illustrator, figma, adobe photoshop, teamwork",senior,design
+JOB_0083,"Job Offer: junior position in design. We are looking for a candidate with the following requirements:
+- figma
+- ui design
+- ux research
+- adobe photoshop
+- design systems
+- wireframing
+- communication
+Nice to have: reporting, presentation. Location: Hybrid.","figma, ui design, ux research, adobe photoshop, design systems, wireframing, communication",junior,design
+JOB_0084,"Job Offer: intermediate position in data. We are looking for a candidate with the following requirements:
+- etl
+- machine learning
+- numpy
+- data visualization
+- python
+- sql
+- pandas
+- statistics
+Nice to have: reporting, presentation. Location: Hybrid.","etl, machine learning, numpy, data visualization, python, sql, pandas, statistics, presentation",intermediate,data
+JOB_0085,"Job Offer: junior position in marketing. We are looking for a candidate with the following requirements:
+- seo
+- branding
+- google analytics
+- content marketing
+- email marketing
+- social media
+- teamwork
+- problem solving
+Nice to have: reporting, presentation. Location: Hybrid.","seo, branding, google analytics, content marketing, email marketing, social media, teamwork, problem solving",junior,marketing
+JOB_0086,"Job Offer: intermediate position in marketing. We are looking for a candidate with the following requirements:
+- crm
+- email marketing
+- social media
+- content marketing
+- seo
+- google analytics
+- copywriting
+- branding
+Nice to have: reporting, presentation. Location: Hybrid.","crm, email marketing, social media, content marketing, seo, google analytics, copywriting, branding, problem solving",intermediate,marketing
+JOB_0087,"Job Offer: intermediate position in data. We are looking for a candidate with the following requirements:
+- etl
+- power bi
+- pandas
+- tableau
+- numpy
+- statistics
+- sql
+- machine learning
+Nice to have: reporting, presentation. Location: Hybrid.","etl, power bi, pandas, tableau, numpy, statistics, sql, machine learning, reporting",intermediate,data
+JOB_0088,"Job Offer: junior position in cybersecurity. We are looking for a candidate with the following requirements:
+- risk assessment
+- siem
+- penetration testing
+- cryptography
+- linux
+- network security
+- english
+Nice to have: reporting, presentation. Location: Hybrid.","risk assessment, siem, penetration testing, cryptography, linux, network security, english",junior,cybersecurity
+JOB_0089,"Job Offer: intermediate position in cybersecurity. We are looking for a candidate with the following requirements:
+- cryptography
+- incident response
+- network security
+- penetration testing
+- firewalls
+- siem
+- risk assessment
+- linux
+Nice to have: reporting, presentation. Location: Hybrid.","cryptography, incident response, network security, penetration testing, firewalls, siem, risk assessment, linux, reporting, teamwork",intermediate,cybersecurity

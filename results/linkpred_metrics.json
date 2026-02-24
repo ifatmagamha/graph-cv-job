@@ -1,0 +1,8 @@
+{
+  "precision_at_200_struct_cn": 0.015,
+  "precision_at_500_struct_cn": 0.014,
+  "precision_at_200_semantic": 0.05,
+  "precision_at_500_semantic": 0.076,
+  "n_candidates_scored": 20000,
+  "test_edges": 240
+}

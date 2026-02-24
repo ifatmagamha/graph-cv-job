@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+intermediate       0.96      1.00      0.98        23
+      junior       1.00      0.97      0.98        29
+      senior       1.00      1.00      1.00         8
+
+    accuracy                           0.98        60
+   macro avg       0.99      0.99      0.99        60
+weighted avg       0.98      0.98      0.98        60

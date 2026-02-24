@@ -1,0 +1,2955 @@
+cv_id,text,skills,level,profile_type,domain
+CV_0000,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- linux
+- javascript
+- scrum
+- git
+- python
+- budgeting
+- java
+- planning
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","linux, javascript, scrum, git, python, budgeting, java, planning, reporting, teamwork",junior,polyvalent,design
+CV_0001,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- typography
+- design systems
+- adobe photoshop
+- ux research
+- figma
+- wireframing
+- ui design
+- adobe illustrator
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","typography, design systems, adobe photoshop, ux research, figma, wireframing, ui design, adobe illustrator, teamwork, presentation",intermediate,specialized,design
+CV_0002,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- scrum
+- budgeting
+- communication
+- planning
+- project management
+- reporting
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, scrum, budgeting, communication, planning, project management, reporting",junior,specialized,management
+CV_0003,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- powerpoint
+- forecasting
+- financial modeling
+- excel
+- sql
+- accounting
+- problem solving
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","powerpoint, forecasting, financial modeling, excel, sql, accounting, problem solving",junior,specialized,finance
+CV_0004,"CV Profile: senior candidate in data. Experience with relevant tools and projects. Skills:
+- risk analysis
+- leadership
+- project management
+- agile
+- siem
+- cryptography
+- financial modeling
+- accounting
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","risk analysis, leadership, project management, agile, siem, cryptography, financial modeling, accounting, network security, penetration testing, sql, scrum, presentation, problem solving",senior,polyvalent,data
+CV_0005,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- project management
+- budgeting
+- scrum
+- stakeholder management
+- planning
+- leadership
+- communication
+- agile
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","project management, budgeting, scrum, stakeholder management, planning, leadership, communication, agile, presentation",intermediate,specialized,management
+CV_0006,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- agile
+- linux
+- risk assessment
+- incident response
+- testing
+- penetration testing
+- leadership
+- rest api
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","agile, linux, risk assessment, incident response, testing, penetration testing, leadership, rest api, teamwork, presentation, english",junior,polyvalent,finance
+CV_0007,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- ui design
+- adobe illustrator
+- testing
+- wireframing
+- cloud
+- linux
+- docker
+- javascript
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","ui design, adobe illustrator, testing, wireframing, cloud, linux, docker, javascript, rest api, figma, presentation, reporting",intermediate,polyvalent,data
+CV_0008,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- scrum
+- stakeholder management
+- leadership
+- planning
+- project management
+- reporting
+- teamwork
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, scrum, stakeholder management, leadership, planning, project management, reporting, teamwork",junior,specialized,management
+CV_0009,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- copywriting
+- google analytics
+- email marketing
+- figma
+- wireframing
+- stakeholder management
+- ui design
+- design systems
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","copywriting, google analytics, email marketing, figma, wireframing, stakeholder management, ui design, design systems, seo, adobe photoshop, communication, planning, problem solving, teamwork",senior,polyvalent,marketing
+CV_0010,"CV Profile: senior candidate in software. Experience with relevant tools and projects. Skills:
+- adobe illustrator
+- accounting
+- adobe photoshop
+- ux research
+- financial modeling
+- business intelligence
+- powerpoint
+- forecasting
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","adobe illustrator, accounting, adobe photoshop, ux research, financial modeling, business intelligence, powerpoint, forecasting, ui design, risk analysis, wireframing, sql, teamwork, reporting, presentation",senior,polyvalent,software
+CV_0011,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- email marketing
+- agile
+- project management
+- scrum
+- budgeting
+- excel
+- forecasting
+- sql
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","email marketing, agile, project management, scrum, budgeting, excel, forecasting, sql, communication, presentation",junior,polyvalent,design
+CV_0012,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- figma
+- wireframing
+- ux research
+- design systems
+- ui design
+- typography
+- adobe illustrator
+- adobe photoshop
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","figma, wireframing, ux research, design systems, ui design, typography, adobe illustrator, adobe photoshop, presentation",intermediate,specialized,design
+CV_0013,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- branding
+- email marketing
+- social media
+- content marketing
+- seo
+- crm
+- copywriting
+- google analytics
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","branding, email marketing, social media, content marketing, seo, crm, copywriting, google analytics, english, presentation",intermediate,specialized,marketing
+CV_0014,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- power bi
+- statistics
+- numpy
+- business intelligence
+- python
+- pandas
+- data visualization
+- machine learning
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","power bi, statistics, numpy, business intelligence, python, pandas, data visualization, machine learning, risk analysis, etl, english, teamwork, communication",intermediate,polyvalent,management
+CV_0015,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- ux research
+- figma
+- adobe illustrator
+- tableau
+- power bi
+- machine learning
+- python
+- wireframing
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","ux research, figma, adobe illustrator, tableau, power bi, machine learning, python, wireframing, adobe photoshop, data visualization, english, communication",intermediate,polyvalent,finance
+CV_0016,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- forecasting
+- project management
+- network security
+- risk assessment
+- scrum
+- risk analysis
+- budgeting
+- incident response
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","forecasting, project management, network security, risk assessment, scrum, risk analysis, budgeting, incident response, reporting, presentation",junior,polyvalent,software
+CV_0017,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- tableau
+- etl
+- machine learning
+- python
+- pandas
+- data visualization
+- sql
+- numpy
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","tableau, etl, machine learning, python, pandas, data visualization, sql, numpy, presentation",intermediate,specialized,data
+CV_0018,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- communication
+- budgeting
+- project management
+- planning
+- agile
+- problem solving
+- teamwork
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","stakeholder management, communication, budgeting, project management, planning, agile, problem solving, teamwork",junior,specialized,management
+CV_0019,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- wireframing
+- ui design
+- adobe illustrator
+- ux research
+- typography
+- design systems
+- figma
+- adobe photoshop
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","wireframing, ui design, adobe illustrator, ux research, typography, design systems, figma, adobe photoshop, reporting, presentation",intermediate,specialized,design
+CV_0020,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- pandas
+- machine learning
+- numpy
+- python
+- sql
+- power bi
+- teamwork
+- english
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","pandas, machine learning, numpy, python, sql, power bi, teamwork, english",junior,specialized,data
+CV_0021,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- project management
+- planning
+- communication
+- scrum
+- leadership
+- stakeholder management
+- agile
+- budgeting
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","project management, planning, communication, scrum, leadership, stakeholder management, agile, budgeting, presentation",intermediate,specialized,management
+CV_0022,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- social media
+- crm
+- google analytics
+- content marketing
+- email marketing
+- branding
+- problem solving
+- communication
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","social media, crm, google analytics, content marketing, email marketing, branding, problem solving, communication",junior,specialized,marketing
+CV_0023,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- linux
+- pandas
+- incident response
+- sql
+- data visualization
+- risk assessment
+- numpy
+- cryptography
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","linux, pandas, incident response, sql, data visualization, risk assessment, numpy, cryptography, tableau, firewalls, communication, teamwork",intermediate,polyvalent,data
+CV_0024,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- google analytics
+- social media
+- content marketing
+- seo
+- branding
+- crm
+- problem solving
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","google analytics, social media, content marketing, seo, branding, crm, problem solving",junior,specialized,marketing
+CV_0025,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- crm
+- google analytics
+- content marketing
+- social media
+- business intelligence
+- powerpoint
+- excel
+- financial modeling
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","crm, google analytics, content marketing, social media, business intelligence, powerpoint, excel, financial modeling, seo, branding, presentation, teamwork, problem solving",intermediate,polyvalent,software
+CV_0026,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- python
+- linux
+- git
+- java
+- testing
+- javascript
+- docker
+- cloud
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","python, linux, git, java, testing, javascript, docker, cloud, communication",intermediate,specialized,software
+CV_0027,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- ui design
+- wireframing
+- ux research
+- adobe illustrator
+- typography
+- adobe photoshop
+- communication
+- presentation
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ui design, wireframing, ux research, adobe illustrator, typography, adobe photoshop, communication, presentation",junior,specialized,design
+CV_0028,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- leadership
+- budgeting
+- tableau
+- numpy
+- social media
+- crm
+- communication
+- etl
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","leadership, budgeting, tableau, numpy, social media, crm, communication, etl, reporting, teamwork, problem solving",junior,polyvalent,cybersecurity
+CV_0029,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- power bi
+- statistics
+- numpy
+- tableau
+- python
+- machine learning
+- pandas
+- data visualization
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","power bi, statistics, numpy, tableau, python, machine learning, pandas, data visualization, presentation",intermediate,specialized,data
+CV_0030,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- network security
+- typography
+- adobe photoshop
+- ui design
+- powerpoint
+- wireframing
+- siem
+- business intelligence
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","network security, typography, adobe photoshop, ui design, powerpoint, wireframing, siem, business intelligence, design systems, ux research, teamwork, english, problem solving",intermediate,polyvalent,cybersecurity
+CV_0031,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- javascript
+- planning
+- agile
+- rest api
+- project management
+- communication
+- python
+- testing
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","javascript, planning, agile, rest api, project management, communication, python, testing, teamwork, problem solving",junior,polyvalent,finance
+CV_0032,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- python
+- git
+- linux
+- docker
+- cloud
+- testing
+- microservices
+- javascript
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","python, git, linux, docker, cloud, testing, microservices, javascript, presentation",intermediate,specialized,software
+CV_0033,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- ux research
+- adobe illustrator
+- wireframing
+- figma
+- adobe photoshop
+- ui design
+- teamwork
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ux research, adobe illustrator, wireframing, figma, adobe photoshop, ui design, teamwork",junior,specialized,design
+CV_0034,"CV Profile: senior candidate in management. Experience with relevant tools and projects. Skills:
+- project management
+- communication
+- agile
+- leadership
+- stakeholder management
+- budgeting
+- planning
+- scrum
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","project management, communication, agile, leadership, stakeholder management, budgeting, planning, scrum, reporting, presentation",senior,specialized,management
+CV_0035,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- accounting
+- powerpoint
+- risk analysis
+- sql
+- business intelligence
+- excel
+- financial modeling
+- forecasting
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","accounting, powerpoint, risk analysis, sql, business intelligence, excel, financial modeling, forecasting, problem solving",intermediate,specialized,finance
+CV_0036,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- forecasting
+- accounting
+- sql
+- business intelligence
+- excel
+- risk analysis
+- teamwork
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","forecasting, accounting, sql, business intelligence, excel, risk analysis, teamwork",junior,specialized,finance
+CV_0037,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- business intelligence
+- stakeholder management
+- planning
+- agile
+- budgeting
+- excel
+- scrum
+- leadership
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","business intelligence, stakeholder management, planning, agile, budgeting, excel, scrum, leadership, accounting, project management, english, communication, problem solving",intermediate,polyvalent,finance
+CV_0038,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- communication
+- adobe photoshop
+- leadership
+- project management
+- agile
+- budgeting
+- ux research
+- design systems
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","communication, adobe photoshop, leadership, project management, agile, budgeting, ux research, design systems, adobe illustrator, google analytics, presentation, teamwork, english",intermediate,polyvalent,cybersecurity
+CV_0039,"CV Profile: senior candidate in software. Experience with relevant tools and projects. Skills:
+- microservices
+- python
+- java
+- rest api
+- git
+- linux
+- cloud
+- testing
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","microservices, python, java, rest api, git, linux, cloud, testing, javascript, docker, problem solving, teamwork",senior,specialized,software
+CV_0040,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- cryptography
+- risk assessment
+- firewalls
+- network security
+- excel
+- leadership
+- accounting
+- financial modeling
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","cryptography, risk assessment, firewalls, network security, excel, leadership, accounting, financial modeling, communication, teamwork",junior,polyvalent,finance
+CV_0041,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- git
+- javascript
+- linux
+- rest api
+- python
+- docker
+- java
+- cloud
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","git, javascript, linux, rest api, python, docker, java, cloud, problem solving, teamwork",intermediate,specialized,software
+CV_0042,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- linux
+- budgeting
+- communication
+- docker
+- java
+- rest api
+- agile
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","stakeholder management, linux, budgeting, communication, docker, java, rest api, agile, testing, project management, reporting, teamwork",intermediate,polyvalent,marketing
+CV_0043,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- tableau
+- sql
+- python
+- machine learning
+- pandas
+- statistics
+- data visualization
+- etl
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","tableau, sql, python, machine learning, pandas, statistics, data visualization, etl, communication, english",intermediate,specialized,data
+CV_0044,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- planning
+- leadership
+- stakeholder management
+- agile
+- budgeting
+- project management
+- reporting
+- presentation
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","planning, leadership, stakeholder management, agile, budgeting, project management, reporting, presentation",junior,specialized,management
+CV_0045,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- communication
+- scrum
+- agile
+- project management
+- budgeting
+- planning
+- english
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","communication, scrum, agile, project management, budgeting, planning, english",junior,specialized,management
+CV_0046,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- seo
+- social media
+- google analytics
+- content marketing
+- email marketing
+- branding
+- copywriting
+- crm
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","seo, social media, google analytics, content marketing, email marketing, branding, copywriting, crm, problem solving, reporting",intermediate,specialized,marketing
+CV_0047,"CV Profile: senior candidate in design. Experience with relevant tools and projects. Skills:
+- typography
+- figma
+- ui design
+- design systems
+- adobe photoshop
+- ux research
+- wireframing
+- adobe illustrator
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","typography, figma, ui design, design systems, adobe photoshop, ux research, wireframing, adobe illustrator, english, communication",senior,specialized,design
+CV_0048,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- statistics
+- pandas
+- numpy
+- tableau
+- power bi
+- etl
+- english
+- reporting
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","statistics, pandas, numpy, tableau, power bi, etl, english, reporting",junior,specialized,data
+CV_0049,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- penetration testing
+- siem
+- linux
+- network security
+- cryptography
+- incident response
+- presentation
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","penetration testing, siem, linux, network security, cryptography, incident response, presentation",junior,specialized,cybersecurity
+CV_0050,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- microservices
+- docker
+- cloud
+- typography
+- ui design
+- adobe illustrator
+- javascript
+- testing
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","microservices, docker, cloud, typography, ui design, adobe illustrator, javascript, testing, design systems, git, rest api, figma, problem solving, communication",senior,polyvalent,marketing
+CV_0051,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- design systems
+- forecasting
+- figma
+- risk analysis
+- wireframing
+- powerpoint
+- ui design
+- accounting
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","design systems, forecasting, figma, risk analysis, wireframing, powerpoint, ui design, accounting, sql, typography, problem solving, english",intermediate,polyvalent,data
+CV_0052,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- sql
+- python
+- machine learning
+- tableau
+- pandas
+- etl
+- power bi
+- statistics
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","sql, python, machine learning, tableau, pandas, etl, power bi, statistics, reporting",intermediate,specialized,data
+CV_0053,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- budgeting
+- communication
+- leadership
+- planning
+- agile
+- reporting
+- english
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","stakeholder management, budgeting, communication, leadership, planning, agile, reporting, english",junior,specialized,management
+CV_0054,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- linux
+- firewalls
+- risk assessment
+- cryptography
+- siem
+- incident response
+- network security
+- penetration testing
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","linux, firewalls, risk assessment, cryptography, siem, incident response, network security, penetration testing, teamwork",intermediate,specialized,cybersecurity
+CV_0055,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- branding
+- crm
+- copywriting
+- social media
+- google analytics
+- seo
+- problem solving
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","branding, crm, copywriting, social media, google analytics, seo, problem solving",junior,specialized,marketing
+CV_0056,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- docker
+- wireframing
+- ui design
+- typography
+- java
+- design systems
+- adobe photoshop
+- adobe illustrator
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","docker, wireframing, ui design, typography, java, design systems, adobe photoshop, adobe illustrator, teamwork, communication, reporting",junior,polyvalent,design
+CV_0057,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- cloud
+- docker
+- linux
+- python
+- git
+- javascript
+- rest api
+- java
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","cloud, docker, linux, python, git, javascript, rest api, java, english, communication",intermediate,specialized,software
+CV_0058,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- crm
+- copywriting
+- google analytics
+- seo
+- email marketing
+- social media
+- presentation
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","crm, copywriting, google analytics, seo, email marketing, social media, presentation",junior,specialized,marketing
+CV_0059,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- scrum
+- stakeholder management
+- communication
+- budgeting
+- leadership
+- project management
+- presentation
+- english
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","scrum, stakeholder management, communication, budgeting, leadership, project management, presentation, english",junior,specialized,management
+CV_0060,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- numpy
+- sql
+- machine learning
+- etl
+- statistics
+- tableau
+- presentation
+- english
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","numpy, sql, machine learning, etl, statistics, tableau, presentation, english",junior,specialized,data
+CV_0061,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- scrum
+- budgeting
+- planning
+- project management
+- leadership
+- stakeholder management
+- communication
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, scrum, budgeting, planning, project management, leadership, stakeholder management, communication, teamwork",intermediate,specialized,management
+CV_0062,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- agile
+- python
+- etl
+- testing
+- rest api
+- stakeholder management
+- planning
+- machine learning
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","agile, python, etl, testing, rest api, stakeholder management, planning, machine learning, presentation, teamwork",junior,polyvalent,marketing
+CV_0063,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- linux
+- risk assessment
+- network security
+- incident response
+- cryptography
+- siem
+- penetration testing
+- firewalls
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","linux, risk assessment, network security, incident response, cryptography, siem, penetration testing, firewalls, reporting, problem solving",intermediate,specialized,cybersecurity
+CV_0064,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- social media
+- excel
+- sql
+- risk analysis
+- branding
+- google analytics
+- email marketing
+- financial modeling
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","social media, excel, sql, risk analysis, branding, google analytics, email marketing, financial modeling, forecasting, content marketing, communication, problem solving, reporting",intermediate,polyvalent,finance
+CV_0065,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- communication
+- stakeholder management
+- budgeting
+- java
+- financial modeling
+- business intelligence
+- powerpoint
+- rest api
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","communication, stakeholder management, budgeting, java, financial modeling, business intelligence, powerpoint, rest api, sql, agile, reporting, english",intermediate,polyvalent,management
+CV_0066,"CV Profile: senior candidate in software. Experience with relevant tools and projects. Skills:
+- rest api
+- linux
+- microservices
+- git
+- cloud
+- java
+- testing
+- python
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","rest api, linux, microservices, git, cloud, java, testing, python, javascript, docker, english",senior,specialized,software
+CV_0067,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- machine learning
+- data visualization
+- tableau
+- python
+- statistics
+- etl
+- pandas
+- numpy
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","machine learning, data visualization, tableau, python, statistics, etl, pandas, numpy, presentation, communication",intermediate,specialized,data
+CV_0068,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- network security
+- firewalls
+- business intelligence
+- excel
+- risk analysis
+- siem
+- linux
+- sql
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","network security, firewalls, business intelligence, excel, risk analysis, siem, linux, sql, communication, presentation, english",junior,polyvalent,management
+CV_0069,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- etl
+- sql
+- risk assessment
+- cryptography
+- network security
+- machine learning
+- pandas
+- linux
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","etl, sql, risk assessment, cryptography, network security, machine learning, pandas, linux, penetration testing, python, teamwork, communication",intermediate,polyvalent,software
+CV_0070,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- social media
+- branding
+- copywriting
+- content marketing
+- crm
+- email marketing
+- google analytics
+- seo
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","social media, branding, copywriting, content marketing, crm, email marketing, google analytics, seo, presentation, communication",senior,specialized,marketing
+CV_0071,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- scrum
+- project management
+- stakeholder management
+- leadership
+- communication
+- planning
+- presentation
+- problem solving
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","scrum, project management, stakeholder management, leadership, communication, planning, presentation, problem solving",junior,specialized,management
+CV_0072,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- sql
+- business intelligence
+- risk analysis
+- excel
+- financial modeling
+- powerpoint
+- accounting
+- forecasting
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","sql, business intelligence, risk analysis, excel, financial modeling, powerpoint, accounting, forecasting, communication, english",intermediate,specialized,finance
+CV_0073,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- social media
+- seo
+- email marketing
+- copywriting
+- design systems
+- adobe photoshop
+- google analytics
+- ui design
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","social media, seo, email marketing, copywriting, design systems, adobe photoshop, google analytics, ui design, reporting, problem solving",junior,polyvalent,cybersecurity
+CV_0074,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- typography
+- data visualization
+- tableau
+- figma
+- numpy
+- statistics
+- etl
+- adobe illustrator
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","typography, data visualization, tableau, figma, numpy, statistics, etl, adobe illustrator, ux research, machine learning, presentation, english, teamwork",intermediate,polyvalent,design
+CV_0075,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- rest api
+- testing
+- docker
+- microservices
+- java
+- javascript
+- problem solving
+- presentation
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","rest api, testing, docker, microservices, java, javascript, problem solving, presentation",junior,specialized,software
+CV_0076,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- python
+- testing
+- javascript
+- java
+- agile
+- budgeting
+- docker
+- planning
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","python, testing, javascript, java, agile, budgeting, docker, planning, english, problem solving",junior,polyvalent,management
+CV_0077,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- wireframing
+- design systems
+- adobe illustrator
+- ux research
+- figma
+- adobe photoshop
+- typography
+- ui design
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","wireframing, design systems, adobe illustrator, ux research, figma, adobe photoshop, typography, ui design, reporting",intermediate,specialized,design
+CV_0078,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- crm
+- social media
+- google analytics
+- email marketing
+- seo
+- communication
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, crm, social media, google analytics, email marketing, seo, communication",junior,specialized,marketing
+CV_0079,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- sql
+- statistics
+- machine learning
+- power bi
+- data visualization
+- etl
+- reporting
+- teamwork
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","sql, statistics, machine learning, power bi, data visualization, etl, reporting, teamwork",junior,specialized,data
+CV_0080,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- scrum
+- python
+- linux
+- agile
+- leadership
+- cryptography
+- power bi
+- penetration testing
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","scrum, python, linux, agile, leadership, cryptography, power bi, penetration testing, incident response, machine learning, problem solving, teamwork, communication",intermediate,polyvalent,finance
+CV_0081,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- planning
+- budgeting
+- communication
+- project management
+- leadership
+- agile
+- scrum
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","stakeholder management, planning, budgeting, communication, project management, leadership, agile, scrum, reporting",intermediate,specialized,management
+CV_0082,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- linux
+- rest api
+- google analytics
+- testing
+- cloud
+- java
+- seo
+- email marketing
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","linux, rest api, google analytics, testing, cloud, java, seo, email marketing, reporting, problem solving",junior,polyvalent,software
+CV_0083,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- python
+- numpy
+- data visualization
+- machine learning
+- docker
+- git
+- power bi
+- pandas
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","python, numpy, data visualization, machine learning, docker, git, power bi, pandas, reporting, communication, presentation",junior,polyvalent,management
+CV_0084,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- financial modeling
+- risk analysis
+- forecasting
+- business intelligence
+- excel
+- accounting
+- english
+- communication
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","financial modeling, risk analysis, forecasting, business intelligence, excel, accounting, english, communication",junior,specialized,finance
+CV_0085,"CV Profile: senior candidate in data. Experience with relevant tools and projects. Skills:
+- tableau
+- ui design
+- statistics
+- financial modeling
+- numpy
+- power bi
+- etl
+- sql
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","tableau, ui design, statistics, financial modeling, numpy, power bi, etl, sql, pandas, risk analysis, accounting, business intelligence, english, reporting, problem solving",senior,polyvalent,data
+CV_0086,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- financial modeling
+- sql
+- powerpoint
+- forecasting
+- business intelligence
+- risk analysis
+- accounting
+- excel
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","financial modeling, sql, powerpoint, forecasting, business intelligence, risk analysis, accounting, excel, problem solving, english",intermediate,specialized,finance
+CV_0087,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- sql
+- accounting
+- powerpoint
+- business intelligence
+- forecasting
+- excel
+- communication
+- presentation
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","sql, accounting, powerpoint, business intelligence, forecasting, excel, communication, presentation",junior,specialized,finance
+CV_0088,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- planning
+- budgeting
+- agile
+- communication
+- project management
+- scrum
+- presentation
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","planning, budgeting, agile, communication, project management, scrum, presentation",junior,specialized,management
+CV_0089,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- agile
+- communication
+- project management
+- figma
+- planning
+- python
+- stakeholder management
+- typography
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","agile, communication, project management, figma, planning, python, stakeholder management, typography, presentation, english",junior,polyvalent,finance
+CV_0090,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- testing
+- rest api
+- java
+- microservices
+- javascript
+- docker
+- linux
+- git
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","testing, rest api, java, microservices, javascript, docker, linux, git, reporting",intermediate,specialized,software
+CV_0091,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- ux research
+- design systems
+- adobe illustrator
+- wireframing
+- adobe photoshop
+- ui design
+- figma
+- typography
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ux research, design systems, adobe illustrator, wireframing, adobe photoshop, ui design, figma, typography, reporting",intermediate,specialized,design
+CV_0092,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- figma
+- design systems
+- adobe illustrator
+- adobe photoshop
+- ui design
+- typography
+- english
+- problem solving
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","figma, design systems, adobe illustrator, adobe photoshop, ui design, typography, english, problem solving",junior,specialized,design
+CV_0093,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- microservices
+- statistics
+- docker
+- java
+- numpy
+- data visualization
+- testing
+- pandas
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","microservices, statistics, docker, java, numpy, data visualization, testing, pandas, english, problem solving, teamwork",junior,polyvalent,software
+CV_0094,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- scrum
+- planning
+- communication
+- stakeholder management
+- budgeting
+- leadership
+- project management
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, scrum, planning, communication, stakeholder management, budgeting, leadership, project management, english",intermediate,specialized,management
+CV_0095,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- social media
+- email marketing
+- content marketing
+- google analytics
+- copywriting
+- crm
+- communication
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","social media, email marketing, content marketing, google analytics, copywriting, crm, communication",junior,specialized,marketing
+CV_0096,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- sql
+- forecasting
+- powerpoint
+- financial modeling
+- accounting
+- excel
+- business intelligence
+- risk analysis
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","sql, forecasting, powerpoint, financial modeling, accounting, excel, business intelligence, risk analysis, communication, english",intermediate,specialized,finance
+CV_0097,"CV Profile: senior candidate in data. Experience with relevant tools and projects. Skills:
+- tableau
+- data visualization
+- power bi
+- machine learning
+- python
+- statistics
+- numpy
+- sql
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","tableau, data visualization, power bi, machine learning, python, statistics, numpy, sql, pandas, etl, communication, english",senior,specialized,data
+CV_0098,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- budgeting
+- communication
+- project management
+- stakeholder management
+- scrum
+- leadership
+- teamwork
+- problem solving
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","budgeting, communication, project management, stakeholder management, scrum, leadership, teamwork, problem solving",junior,specialized,management
+CV_0099,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- communication
+- budgeting
+- leadership
+- scrum
+- planning
+- teamwork
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, communication, budgeting, leadership, scrum, planning, teamwork",junior,specialized,management
+CV_0100,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- tableau
+- machine learning
+- sql
+- etl
+- numpy
+- statistics
+- reporting
+- presentation
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","tableau, machine learning, sql, etl, numpy, statistics, reporting, presentation",junior,specialized,data
+CV_0101,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- scrum
+- ui design
+- cryptography
+- stakeholder management
+- ux research
+- siem
+- agile
+- firewalls
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","scrum, ui design, cryptography, stakeholder management, ux research, siem, agile, firewalls, adobe illustrator, risk assessment, problem solving, english",intermediate,polyvalent,finance
+CV_0102,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- forecasting
+- excel
+- powerpoint
+- sql
+- risk analysis
+- financial modeling
+- english
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","forecasting, excel, powerpoint, sql, risk analysis, financial modeling, english",junior,specialized,finance
+CV_0103,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- leadership
+- communication
+- agile
+- project management
+- stakeholder management
+- budgeting
+- planning
+- scrum
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","leadership, communication, agile, project management, stakeholder management, budgeting, planning, scrum",intermediate,specialized,management
+CV_0104,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- agile
+- risk assessment
+- linux
+- cryptography
+- scrum
+- penetration testing
+- firewalls
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","stakeholder management, agile, risk assessment, linux, cryptography, scrum, penetration testing, firewalls, communication, planning, reporting, english",intermediate,polyvalent,software
+CV_0105,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- statistics
+- sql
+- etl
+- power bi
+- risk assessment
+- linux
+- cryptography
+- network security
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","statistics, sql, etl, power bi, risk assessment, linux, cryptography, network security, problem solving, reporting",junior,polyvalent,cybersecurity
+CV_0106,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- accounting
+- powerpoint
+- sql
+- forecasting
+- excel
+- business intelligence
+- financial modeling
+- risk analysis
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","accounting, powerpoint, sql, forecasting, excel, business intelligence, financial modeling, risk analysis, problem solving",intermediate,specialized,finance
+CV_0107,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- risk assessment
+- linux
+- firewalls
+- cryptography
+- penetration testing
+- network security
+- communication
+- reporting
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","risk assessment, linux, firewalls, cryptography, penetration testing, network security, communication, reporting",junior,specialized,cybersecurity
+CV_0108,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- network security
+- cryptography
+- wireframing
+- adobe illustrator
+- siem
+- linux
+- risk assessment
+- ui design
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","network security, cryptography, wireframing, adobe illustrator, siem, linux, risk assessment, ui design, incident response, figma, problem solving, teamwork, english",intermediate,polyvalent,management
+CV_0109,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- leadership
+- google analytics
+- java
+- crm
+- python
+- rest api
+- communication
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, leadership, google analytics, java, crm, python, rest api, communication, english, reporting, presentation",junior,polyvalent,marketing
+CV_0110,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- budgeting
+- communication
+- planning
+- agile
+- stakeholder management
+- penetration testing
+- linux
+- project management
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","budgeting, communication, planning, agile, stakeholder management, penetration testing, linux, project management, cryptography, firewalls, problem solving, english",intermediate,polyvalent,software
+CV_0111,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- social media
+- email marketing
+- branding
+- google analytics
+- seo
+- content marketing
+- english
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","social media, email marketing, branding, google analytics, seo, content marketing, english",junior,specialized,marketing
+CV_0112,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- google analytics
+- branding
+- seo
+- email marketing
+- copywriting
+- teamwork
+- presentation
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, google analytics, branding, seo, email marketing, copywriting, teamwork, presentation",junior,specialized,marketing
+CV_0113,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- project management
+- agile
+- planning
+- figma
+- typography
+- scrum
+- design systems
+- adobe illustrator
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","project management, agile, planning, figma, typography, scrum, design systems, adobe illustrator, reporting, presentation",junior,polyvalent,data
+CV_0114,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- numpy
+- data visualization
+- python
+- power bi
+- tableau
+- etl
+- risk assessment
+- penetration testing
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","numpy, data visualization, python, power bi, tableau, etl, risk assessment, penetration testing, english, reporting",junior,polyvalent,marketing
+CV_0115,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- social media
+- crm
+- content marketing
+- google analytics
+- branding
+- seo
+- teamwork
+- reporting
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","social media, crm, content marketing, google analytics, branding, seo, teamwork, reporting",junior,specialized,marketing
+CV_0116,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- data visualization
+- social media
+- python
+- design systems
+- figma
+- ui design
+- machine learning
+- power bi
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","data visualization, social media, python, design systems, figma, ui design, machine learning, power bi, problem solving, communication, presentation",junior,polyvalent,finance
+CV_0117,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- budgeting
+- communication
+- scrum
+- leadership
+- project management
+- reporting
+- problem solving
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, budgeting, communication, scrum, leadership, project management, reporting, problem solving",junior,specialized,management
+CV_0118,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- financial modeling
+- microservices
+- docker
+- sql
+- powerpoint
+- excel
+- testing
+- wireframing
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","financial modeling, microservices, docker, sql, powerpoint, excel, testing, wireframing, cloud, forecasting, problem solving, presentation",intermediate,polyvalent,management
+CV_0119,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- numpy
+- java
+- machine learning
+- incident response
+- siem
+- testing
+- docker
+- tableau
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","numpy, java, machine learning, incident response, siem, testing, docker, tableau, english, presentation, reporting",junior,polyvalent,marketing
+CV_0120,"CV Profile: senior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- risk assessment
+- siem
+- penetration testing
+- firewalls
+- network security
+- cryptography
+- linux
+- incident response
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","risk assessment, siem, penetration testing, firewalls, network security, cryptography, linux, incident response, reporting, teamwork",senior,specialized,cybersecurity
+CV_0121,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- crm
+- branding
+- google analytics
+- email marketing
+- social media
+- copywriting
+- teamwork
+- english
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","crm, branding, google analytics, email marketing, social media, copywriting, teamwork, english",junior,specialized,marketing
+CV_0122,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- business intelligence
+- excel
+- cryptography
+- financial modeling
+- powerpoint
+- branding
+- penetration testing
+- social media
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","business intelligence, excel, cryptography, financial modeling, powerpoint, branding, penetration testing, social media, teamwork, reporting",junior,polyvalent,cybersecurity
+CV_0123,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- ui design
+- design systems
+- adobe illustrator
+- ux research
+- adobe photoshop
+- wireframing
+- figma
+- typography
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ui design, design systems, adobe illustrator, ux research, adobe photoshop, wireframing, figma, typography, problem solving, presentation",intermediate,specialized,design
+CV_0124,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- powerpoint
+- risk analysis
+- accounting
+- business intelligence
+- financial modeling
+- excel
+- forecasting
+- sql
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","powerpoint, risk analysis, accounting, business intelligence, financial modeling, excel, forecasting, sql, reporting, english",intermediate,specialized,finance
+CV_0125,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- incident response
+- python
+- google analytics
+- git
+- microservices
+- cryptography
+- copywriting
+- email marketing
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","incident response, python, google analytics, git, microservices, cryptography, copywriting, email marketing, communication, problem solving, reporting",junior,polyvalent,marketing
+CV_0126,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- adobe photoshop
+- wireframing
+- ui design
+- adobe illustrator
+- ux research
+- typography
+- communication
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","adobe photoshop, wireframing, ui design, adobe illustrator, ux research, typography, communication",junior,specialized,design
+CV_0127,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- linux
+- python
+- rest api
+- docker
+- microservices
+- javascript
+- git
+- cloud
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","linux, python, rest api, docker, microservices, javascript, git, cloud, reporting",intermediate,specialized,software
+CV_0128,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- etl
+- power bi
+- data visualization
+- tableau
+- statistics
+- pandas
+- teamwork
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","etl, power bi, data visualization, tableau, statistics, pandas, teamwork",junior,specialized,data
+CV_0129,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- cryptography
+- linux
+- penetration testing
+- risk assessment
+- firewalls
+- network security
+- incident response
+- siem
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","cryptography, linux, penetration testing, risk assessment, firewalls, network security, incident response, siem, reporting",intermediate,specialized,cybersecurity
+CV_0130,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- git
+- rest api
+- docker
+- microservices
+- python
+- javascript
+- presentation
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","git, rest api, docker, microservices, python, javascript, presentation",junior,specialized,software
+CV_0131,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- copywriting
+- crm
+- branding
+- email marketing
+- seo
+- reporting
+- communication
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, copywriting, crm, branding, email marketing, seo, reporting, communication",junior,specialized,marketing
+CV_0132,"CV Profile: senior candidate in management. Experience with relevant tools and projects. Skills:
+- communication
+- planning
+- agile
+- leadership
+- stakeholder management
+- scrum
+- project management
+- budgeting
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","communication, planning, agile, leadership, stakeholder management, scrum, project management, budgeting, presentation, problem solving",senior,specialized,management
+CV_0133,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- tableau
+- machine learning
+- etl
+- risk assessment
+- forecasting
+- penetration testing
+- sql
+- risk analysis
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","tableau, machine learning, etl, risk assessment, forecasting, penetration testing, sql, risk analysis, reporting, teamwork, problem solving",junior,polyvalent,finance
+CV_0134,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- penetration testing
+- network security
+- cryptography
+- java
+- testing
+- forecasting
+- sql
+- accounting
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","penetration testing, network security, cryptography, java, testing, forecasting, sql, accounting, cloud, incident response, communication, presentation",intermediate,polyvalent,management
+CV_0135,"CV Profile: senior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- penetration testing
+- linux
+- java
+- microservices
+- git
+- communication
+- python
+- stakeholder management
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","penetration testing, linux, java, microservices, git, communication, python, stakeholder management, network security, siem, agile, firewalls, english, reporting",senior,polyvalent,cybersecurity
+CV_0136,"CV Profile: senior candidate in finance. Experience with relevant tools and projects. Skills:
+- powerpoint
+- excel
+- sql
+- accounting
+- risk analysis
+- forecasting
+- financial modeling
+- business intelligence
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","powerpoint, excel, sql, accounting, risk analysis, forecasting, financial modeling, business intelligence, communication",senior,specialized,finance
+CV_0137,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- powerpoint
+- sql
+- risk analysis
+- accounting
+- excel
+- financial modeling
+- reporting
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","powerpoint, sql, risk analysis, accounting, excel, financial modeling, reporting",junior,specialized,finance
+CV_0138,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- social media
+- copywriting
+- email marketing
+- google analytics
+- crm
+- teamwork
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, social media, copywriting, email marketing, google analytics, crm, teamwork",junior,specialized,marketing
+CV_0139,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- google analytics
+- javascript
+- risk assessment
+- branding
+- incident response
+- docker
+- linux
+- network security
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","google analytics, javascript, risk assessment, branding, incident response, docker, linux, network security, presentation, problem solving",junior,polyvalent,data
+CV_0140,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- scrum
+- leadership
+- communication
+- budgeting
+- agile
+- stakeholder management
+- reporting
+- problem solving
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","scrum, leadership, communication, budgeting, agile, stakeholder management, reporting, problem solving",junior,specialized,management
+CV_0141,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- copywriting
+- social media
+- seo
+- google analytics
+- branding
+- email marketing
+- crm
+- content marketing
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","copywriting, social media, seo, google analytics, branding, email marketing, crm, content marketing, presentation, communication",intermediate,specialized,marketing
+CV_0142,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- python
+- statistics
+- power bi
+- adobe illustrator
+- sql
+- pandas
+- design systems
+- figma
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","python, statistics, power bi, adobe illustrator, sql, pandas, design systems, figma, teamwork, communication",junior,polyvalent,marketing
+CV_0143,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- risk analysis
+- business intelligence
+- forecasting
+- powerpoint
+- sql
+- accounting
+- presentation
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","risk analysis, business intelligence, forecasting, powerpoint, sql, accounting, presentation",junior,specialized,finance
+CV_0144,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- linux
+- testing
+- microservices
+- javascript
+- java
+- git
+- cloud
+- docker
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","linux, testing, microservices, javascript, java, git, cloud, docker, presentation, problem solving",intermediate,specialized,software
+CV_0145,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- seo
+- social media
+- incident response
+- google analytics
+- python
+- siem
+- crm
+- java
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","seo, social media, incident response, google analytics, python, siem, crm, java, problem solving, communication, english",junior,polyvalent,marketing
+CV_0146,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- etl
+- network security
+- sql
+- linux
+- data visualization
+- power bi
+- statistics
+- python
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","etl, network security, sql, linux, data visualization, power bi, statistics, python, machine learning, penetration testing, reporting, problem solving, teamwork",intermediate,polyvalent,finance
+CV_0147,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- statistics
+- python
+- tableau
+- numpy
+- sql
+- power bi
+- pandas
+- data visualization
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","statistics, python, tableau, numpy, sql, power bi, pandas, data visualization, presentation, english",intermediate,specialized,data
+CV_0148,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- power bi
+- machine learning
+- data visualization
+- numpy
+- statistics
+- etl
+- sql
+- pandas
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","power bi, machine learning, data visualization, numpy, statistics, etl, sql, pandas, problem solving, communication",intermediate,specialized,data
+CV_0149,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- project management
+- agile
+- stakeholder management
+- budgeting
+- leadership
+- communication
+- teamwork
+- problem solving
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","project management, agile, stakeholder management, budgeting, leadership, communication, teamwork, problem solving",junior,specialized,management
+CV_0150,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- sql
+- numpy
+- pandas
+- statistics
+- power bi
+- etl
+- teamwork
+- reporting
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","sql, numpy, pandas, statistics, power bi, etl, teamwork, reporting",junior,specialized,data
+CV_0151,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- cloud
+- risk analysis
+- sql
+- typography
+- design systems
+- accounting
+- testing
+- forecasting
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","cloud, risk analysis, sql, typography, design systems, accounting, testing, forecasting, teamwork, reporting",junior,polyvalent,finance
+CV_0152,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- budgeting
+- communication
+- scrum
+- project management
+- stakeholder management
+- planning
+- leadership
+- agile
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","budgeting, communication, scrum, project management, stakeholder management, planning, leadership, agile, english",intermediate,specialized,management
+CV_0153,"CV Profile: senior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- firewalls
+- linux
+- incident response
+- siem
+- penetration testing
+- risk assessment
+- network security
+- cryptography
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","firewalls, linux, incident response, siem, penetration testing, risk assessment, network security, cryptography, presentation, teamwork",senior,specialized,cybersecurity
+CV_0154,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- machine learning
+- data visualization
+- pandas
+- numpy
+- python
+- tableau
+- etl
+- statistics
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","machine learning, data visualization, pandas, numpy, python, tableau, etl, statistics, teamwork",intermediate,specialized,data
+CV_0155,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- cloud
+- rest api
+- microservices
+- testing
+- docker
+- git
+- teamwork
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","cloud, rest api, microservices, testing, docker, git, teamwork",junior,specialized,software
+CV_0156,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- copywriting
+- email marketing
+- content marketing
+- seo
+- forecasting
+- financial modeling
+- risk analysis
+- crm
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","copywriting, email marketing, content marketing, seo, forecasting, financial modeling, risk analysis, crm, google analytics, business intelligence, reporting, english, communication",intermediate,polyvalent,design
+CV_0157,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- ui design
+- adobe photoshop
+- typography
+- figma
+- adobe illustrator
+- wireframing
+- english
+- reporting
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ui design, adobe photoshop, typography, figma, adobe illustrator, wireframing, english, reporting",junior,specialized,design
+CV_0158,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- risk analysis
+- design systems
+- wireframing
+- pandas
+- statistics
+- machine learning
+- powerpoint
+- figma
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","risk analysis, design systems, wireframing, pandas, statistics, machine learning, powerpoint, figma, business intelligence, power bi, english, communication",intermediate,polyvalent,data
+CV_0159,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- powerpoint
+- financial modeling
+- excel
+- network security
+- typography
+- adobe illustrator
+- cryptography
+- wireframing
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","powerpoint, financial modeling, excel, network security, typography, adobe illustrator, cryptography, wireframing, reporting, teamwork, presentation",junior,polyvalent,cybersecurity
+CV_0160,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- communication
+- stakeholder management
+- planning
+- leadership
+- budgeting
+- scrum
+- teamwork
+- presentation
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","communication, stakeholder management, planning, leadership, budgeting, scrum, teamwork, presentation",junior,specialized,management
+CV_0161,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- financial modeling
+- excel
+- powerpoint
+- risk analysis
+- sql
+- forecasting
+- communication
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","financial modeling, excel, powerpoint, risk analysis, sql, forecasting, communication",junior,specialized,finance
+CV_0162,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- python
+- statistics
+- tableau
+- power bi
+- data visualization
+- sql
+- pandas
+- etl
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","python, statistics, tableau, power bi, data visualization, sql, pandas, etl, reporting",intermediate,specialized,data
+CV_0163,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- content marketing
+- siem
+- email marketing
+- risk assessment
+- social media
+- stakeholder management
+- project management
+- seo
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","content marketing, siem, email marketing, risk assessment, social media, stakeholder management, project management, seo, reporting, presentation",junior,polyvalent,cybersecurity
+CV_0164,"CV Profile: senior candidate in design. Experience with relevant tools and projects. Skills:
+- wireframing
+- adobe photoshop
+- typography
+- figma
+- ux research
+- adobe illustrator
+- ui design
+- design systems
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","wireframing, adobe photoshop, typography, figma, ux research, adobe illustrator, ui design, design systems, english, teamwork",senior,specialized,design
+CV_0165,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- incident response
+- scrum
+- stakeholder management
+- docker
+- risk assessment
+- leadership
+- network security
+- javascript
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","incident response, scrum, stakeholder management, docker, risk assessment, leadership, network security, javascript, english, teamwork",junior,polyvalent,cybersecurity
+CV_0166,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- risk assessment
+- firewalls
+- siem
+- network security
+- linux
+- penetration testing
+- english
+- reporting
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","risk assessment, firewalls, siem, network security, linux, penetration testing, english, reporting",junior,specialized,cybersecurity
+CV_0167,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- social media
+- branding
+- content marketing
+- google analytics
+- copywriting
+- seo
+- teamwork
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","social media, branding, content marketing, google analytics, copywriting, seo, teamwork",junior,specialized,marketing
+CV_0168,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- cloud
+- wireframing
+- java
+- google analytics
+- ui design
+- content marketing
+- testing
+- linux
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","cloud, wireframing, java, google analytics, ui design, content marketing, testing, linux, reporting, problem solving, presentation",junior,polyvalent,design
+CV_0169,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- financial modeling
+- numpy
+- wireframing
+- figma
+- ux research
+- powerpoint
+- machine learning
+- adobe photoshop
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","financial modeling, numpy, wireframing, figma, ux research, powerpoint, machine learning, adobe photoshop, communication, problem solving",junior,polyvalent,cybersecurity
+CV_0170,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- email marketing
+- google analytics
+- content marketing
+- crm
+- branding
+- seo
+- copywriting
+- social media
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","email marketing, google analytics, content marketing, crm, branding, seo, copywriting, social media, reporting, problem solving",senior,specialized,marketing
+CV_0171,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- risk assessment
+- incident response
+- linux
+- siem
+- cryptography
+- network security
+- firewalls
+- penetration testing
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","risk assessment, incident response, linux, siem, cryptography, network security, firewalls, penetration testing, reporting",intermediate,specialized,cybersecurity
+CV_0172,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- python
+- tableau
+- data visualization
+- sql
+- numpy
+- etl
+- power bi
+- machine learning
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","python, tableau, data visualization, sql, numpy, etl, power bi, machine learning, communication",intermediate,specialized,data
+CV_0173,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- cloud
+- linux
+- testing
+- python
+- microservices
+- docker
+- git
+- rest api
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","cloud, linux, testing, python, microservices, docker, git, rest api, reporting",intermediate,specialized,software
+CV_0174,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- seo
+- copywriting
+- adobe illustrator
+- typography
+- ux research
+- wireframing
+- social media
+- design systems
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","seo, copywriting, adobe illustrator, typography, ux research, wireframing, social media, design systems, reporting, presentation",junior,polyvalent,design
+CV_0175,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- firewalls
+- network security
+- siem
+- incident response
+- penetration testing
+- cryptography
+- risk assessment
+- linux
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","firewalls, network security, siem, incident response, penetration testing, cryptography, risk assessment, linux, presentation, communication",intermediate,specialized,cybersecurity
+CV_0176,"CV Profile: senior candidate in design. Experience with relevant tools and projects. Skills:
+- figma
+- design systems
+- typography
+- adobe illustrator
+- adobe photoshop
+- ux research
+- ui design
+- wireframing
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","figma, design systems, typography, adobe illustrator, adobe photoshop, ux research, ui design, wireframing, presentation",senior,specialized,design
+CV_0177,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- statistics
+- agile
+- google analytics
+- sql
+- communication
+- data visualization
+- content marketing
+- social media
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","statistics, agile, google analytics, sql, communication, data visualization, content marketing, social media, presentation, problem solving",junior,polyvalent,software
+CV_0178,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- crm
+- seo
+- content marketing
+- copywriting
+- branding
+- google analytics
+- social media
+- email marketing
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","crm, seo, content marketing, copywriting, branding, google analytics, social media, email marketing, teamwork, reporting",intermediate,specialized,marketing
+CV_0179,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- financial modeling
+- sql
+- linux
+- docker
+- ui design
+- java
+- excel
+- git
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","financial modeling, sql, linux, docker, ui design, java, excel, git, adobe illustrator, adobe photoshop, problem solving, reporting",intermediate,polyvalent,software
+CV_0180,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- planning
+- project management
+- leadership
+- scrum
+- stakeholder management
+- agile
+- budgeting
+- communication
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","planning, project management, leadership, scrum, stakeholder management, agile, budgeting, communication, english, teamwork",intermediate,specialized,management
+CV_0181,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- adobe photoshop
+- wireframing
+- ui design
+- figma
+- design systems
+- adobe illustrator
+- typography
+- ux research
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","adobe photoshop, wireframing, ui design, figma, design systems, adobe illustrator, typography, ux research, presentation",intermediate,specialized,design
+CV_0182,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- excel
+- accounting
+- risk analysis
+- sql
+- forecasting
+- business intelligence
+- communication
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","excel, accounting, risk analysis, sql, forecasting, business intelligence, communication",junior,specialized,finance
+CV_0183,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- testing
+- microservices
+- java
+- python
+- cloud
+- javascript
+- reporting
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","testing, microservices, java, python, cloud, javascript, reporting",junior,specialized,software
+CV_0184,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- linux
+- penetration testing
+- network security
+- forecasting
+- risk analysis
+- excel
+- business intelligence
+- risk assessment
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","linux, penetration testing, network security, forecasting, risk analysis, excel, business intelligence, risk assessment, sql, powerpoint, teamwork, presentation, problem solving",intermediate,polyvalent,marketing
+CV_0185,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- siem
+- incident response
+- risk assessment
+- firewalls
+- cryptography
+- linux
+- problem solving
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","siem, incident response, risk assessment, firewalls, cryptography, linux, problem solving",junior,specialized,cybersecurity
+CV_0186,"CV Profile: senior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- leadership
+- git
+- microservices
+- testing
+- docker
+- budgeting
+- seo
+- javascript
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","leadership, git, microservices, testing, docker, budgeting, seo, javascript, python, social media, communication, google analytics, problem solving, presentation",senior,polyvalent,cybersecurity
+CV_0187,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- crm
+- content marketing
+- social media
+- google analytics
+- copywriting
+- branding
+- email marketing
+- seo
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","crm, content marketing, social media, google analytics, copywriting, branding, email marketing, seo, english, problem solving",senior,specialized,marketing
+CV_0188,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- communication
+- budgeting
+- agile
+- project management
+- scrum
+- planning
+- leadership
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","stakeholder management, communication, budgeting, agile, project management, scrum, planning, leadership, problem solving",intermediate,specialized,management
+CV_0189,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- wireframing
+- adobe photoshop
+- cloud
+- git
+- adobe illustrator
+- figma
+- docker
+- rest api
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","wireframing, adobe photoshop, cloud, git, adobe illustrator, figma, docker, rest api, ui design, network security, reporting, communication, problem solving",intermediate,polyvalent,management
+CV_0190,"CV Profile: senior candidate in design. Experience with relevant tools and projects. Skills:
+- ui design
+- figma
+- design systems
+- ux research
+- adobe illustrator
+- adobe photoshop
+- wireframing
+- typography
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ui design, figma, design systems, ux research, adobe illustrator, adobe photoshop, wireframing, typography, english, communication",senior,specialized,design
+CV_0191,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- power bi
+- tableau
+- statistics
+- etl
+- machine learning
+- data visualization
+- presentation
+- reporting
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","power bi, tableau, statistics, etl, machine learning, data visualization, presentation, reporting",junior,specialized,data
+CV_0192,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- figma
+- typography
+- design systems
+- ux research
+- wireframing
+- adobe illustrator
+- adobe photoshop
+- ui design
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","figma, typography, design systems, ux research, wireframing, adobe illustrator, adobe photoshop, ui design, problem solving, presentation",intermediate,specialized,design
+CV_0193,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- powerpoint
+- risk analysis
+- excel
+- sql
+- forecasting
+- financial modeling
+- business intelligence
+- accounting
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","powerpoint, risk analysis, excel, sql, forecasting, financial modeling, business intelligence, accounting, presentation",intermediate,specialized,finance
+CV_0194,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- sql
+- machine learning
+- statistics
+- pandas
+- tableau
+- data visualization
+- problem solving
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","sql, machine learning, statistics, pandas, tableau, data visualization, problem solving",junior,specialized,data
+CV_0195,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- email marketing
+- crm
+- content marketing
+- branding
+- social media
+- copywriting
+- presentation
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","email marketing, crm, content marketing, branding, social media, copywriting, presentation",junior,specialized,marketing
+CV_0196,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- email marketing
+- social media
+- seo
+- content marketing
+- copywriting
+- branding
+- crm
+- google analytics
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","email marketing, social media, seo, content marketing, copywriting, branding, crm, google analytics, problem solving",senior,specialized,marketing
+CV_0197,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- risk assessment
+- penetration testing
+- cryptography
+- siem
+- incident response
+- firewalls
+- reporting
+- communication
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","risk assessment, penetration testing, cryptography, siem, incident response, firewalls, reporting, communication",junior,specialized,cybersecurity
+CV_0198,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- siem
+- firewalls
+- cryptography
+- risk assessment
+- network security
+- penetration testing
+- problem solving
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","siem, firewalls, cryptography, risk assessment, network security, penetration testing, problem solving",junior,specialized,cybersecurity
+CV_0199,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- numpy
+- machine learning
+- data visualization
+- statistics
+- pandas
+- sql
+- english
+- teamwork
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","numpy, machine learning, data visualization, statistics, pandas, sql, english, teamwork",junior,specialized,data
+CV_0200,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- seo
+- cloud
+- google analytics
+- email marketing
+- crm
+- linux
+- microservices
+- java
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","seo, cloud, google analytics, email marketing, crm, linux, microservices, java, copywriting, rest api, teamwork, presentation, english",intermediate,polyvalent,finance
+CV_0201,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- branding
+- social media
+- crm
+- email marketing
+- copywriting
+- seo
+- google analytics
+- content marketing
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","branding, social media, crm, email marketing, copywriting, seo, google analytics, content marketing, problem solving",intermediate,specialized,marketing
+CV_0202,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- machine learning
+- etl
+- power bi
+- pandas
+- data visualization
+- python
+- problem solving
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","machine learning, etl, power bi, pandas, data visualization, python, problem solving",junior,specialized,data
+CV_0203,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- ux research
+- leadership
+- adobe illustrator
+- adobe photoshop
+- typography
+- stakeholder management
+- communication
+- design systems
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","ux research, leadership, adobe illustrator, adobe photoshop, typography, stakeholder management, communication, design systems, figma, planning, problem solving, english",intermediate,polyvalent,management
+CV_0204,"CV Profile: senior candidate in management. Experience with relevant tools and projects. Skills:
+- rest api
+- ui design
+- design systems
+- cloud
+- git
+- testing
+- adobe illustrator
+- java
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","rest api, ui design, design systems, cloud, git, testing, adobe illustrator, java, figma, microservices, javascript, linux, problem solving, presentation",senior,polyvalent,management
+CV_0205,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- git
+- powerpoint
+- sql
+- financial modeling
+- business intelligence
+- javascript
+- linux
+- risk analysis
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","git, powerpoint, sql, financial modeling, business intelligence, javascript, linux, risk analysis, docker, accounting, english, teamwork, problem solving",intermediate,polyvalent,cybersecurity
+CV_0206,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- ui design
+- typography
+- adobe photoshop
+- ux research
+- adobe illustrator
+- design systems
+- problem solving
+- reporting
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ui design, typography, adobe photoshop, ux research, adobe illustrator, design systems, problem solving, reporting",junior,specialized,design
+CV_0207,"CV Profile: senior candidate in data. Experience with relevant tools and projects. Skills:
+- business intelligence
+- forecasting
+- typography
+- accounting
+- adobe photoshop
+- excel
+- design systems
+- ui design
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","business intelligence, forecasting, typography, accounting, adobe photoshop, excel, design systems, ui design, risk analysis, powerpoint, adobe illustrator, sql, problem solving, reporting, teamwork",senior,polyvalent,data
+CV_0208,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- python
+- budgeting
+- communication
+- project management
+- tableau
+- statistics
+- stakeholder management
+- power bi
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","python, budgeting, communication, project management, tableau, statistics, stakeholder management, power bi, numpy, scrum, planning, leadership, presentation, problem solving",senior,polyvalent,marketing
+CV_0209,"CV Profile: senior candidate in software. Experience with relevant tools and projects. Skills:
+- adobe photoshop
+- typography
+- firewalls
+- ui design
+- siem
+- adobe illustrator
+- figma
+- wireframing
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","adobe photoshop, typography, firewalls, ui design, siem, adobe illustrator, figma, wireframing, network security, ux research, penetration testing, risk assessment, presentation, communication, reporting",senior,polyvalent,software
+CV_0210,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- tableau
+- statistics
+- etl
+- python
+- data visualization
+- machine learning
+- english
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","tableau, statistics, etl, python, data visualization, machine learning, english",junior,specialized,data
+CV_0211,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- wireframing
+- figma
+- adobe illustrator
+- design systems
+- adobe photoshop
+- ui design
+- problem solving
+- teamwork
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","wireframing, figma, adobe illustrator, design systems, adobe photoshop, ui design, problem solving, teamwork",junior,specialized,design
+CV_0212,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- budgeting
+- typography
+- leadership
+- ui design
+- figma
+- scrum
+- adobe illustrator
+- agile
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","budgeting, typography, leadership, ui design, figma, scrum, adobe illustrator, agile, wireframing, communication, presentation, teamwork",intermediate,polyvalent,finance
+CV_0213,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- risk analysis
+- excel
+- sql
+- financial modeling
+- powerpoint
+- accounting
+- forecasting
+- business intelligence
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","risk analysis, excel, sql, financial modeling, powerpoint, accounting, forecasting, business intelligence, problem solving, teamwork",intermediate,specialized,finance
+CV_0214,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- testing
+- docker
+- python
+- microservices
+- rest api
+- javascript
+- reporting
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","testing, docker, python, microservices, rest api, javascript, reporting",junior,specialized,software
+CV_0215,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- rest api
+- java
+- docker
+- typography
+- ux research
+- cloud
+- javascript
+- statistics
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","rest api, java, docker, typography, ux research, cloud, javascript, statistics, ui design, design systems, problem solving, teamwork, english",intermediate,polyvalent,marketing
+CV_0216,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- scrum
+- budgeting
+- stakeholder management
+- project management
+- communication
+- leadership
+- planning
+- agile
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","scrum, budgeting, stakeholder management, project management, communication, leadership, planning, agile, teamwork",intermediate,specialized,management
+CV_0217,"CV Profile: senior candidate in data. Experience with relevant tools and projects. Skills:
+- pandas
+- power bi
+- data visualization
+- statistics
+- numpy
+- etl
+- python
+- machine learning
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","pandas, power bi, data visualization, statistics, numpy, etl, python, machine learning, tableau, sql, problem solving",senior,specialized,data
+CV_0218,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- machine learning
+- power bi
+- numpy
+- statistics
+- pandas
+- python
+- tableau
+- data visualization
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","machine learning, power bi, numpy, statistics, pandas, python, tableau, data visualization, presentation, teamwork",intermediate,specialized,data
+CV_0219,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- email marketing
+- social media
+- content marketing
+- copywriting
+- accounting
+- google analytics
+- financial modeling
+- seo
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","email marketing, social media, content marketing, copywriting, accounting, google analytics, financial modeling, seo, presentation, communication",junior,polyvalent,data
+CV_0220,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- testing
+- docker
+- javascript
+- linux
+- java
+- microservices
+- communication
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","testing, docker, javascript, linux, java, microservices, communication",junior,specialized,software
+CV_0221,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- linux
+- siem
+- cryptography
+- penetration testing
+- network security
+- risk assessment
+- firewalls
+- incident response
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","linux, siem, cryptography, penetration testing, network security, risk assessment, firewalls, incident response, english",intermediate,specialized,cybersecurity
+CV_0222,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- communication
+- budgeting
+- project management
+- leadership
+- planning
+- stakeholder management
+- scrum
+- agile
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","communication, budgeting, project management, leadership, planning, stakeholder management, scrum, agile, teamwork",intermediate,specialized,management
+CV_0223,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- machine learning
+- tableau
+- python
+- pandas
+- numpy
+- statistics
+- problem solving
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","machine learning, tableau, python, pandas, numpy, statistics, problem solving",junior,specialized,data
+CV_0224,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- budgeting
+- etl
+- python
+- power bi
+- statistics
+- email marketing
+- agile
+- tableau
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","budgeting, etl, python, power bi, statistics, email marketing, agile, tableau, english, communication",junior,polyvalent,software
+CV_0225,"CV Profile: senior candidate in finance. Experience with relevant tools and projects. Skills:
+- copywriting
+- firewalls
+- branding
+- google analytics
+- seo
+- crm
+- power bi
+- content marketing
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","copywriting, firewalls, branding, google analytics, seo, crm, power bi, content marketing, social media, tableau, risk assessment, data visualization, presentation, reporting",senior,polyvalent,finance
+CV_0226,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- budgeting
+- project management
+- agile
+- communication
+- scrum
+- stakeholder management
+- leadership
+- planning
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","budgeting, project management, agile, communication, scrum, stakeholder management, leadership, planning, presentation",intermediate,specialized,management
+CV_0227,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- crm
+- content marketing
+- python
+- git
+- javascript
+- rest api
+- google analytics
+- seo
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","crm, content marketing, python, git, javascript, rest api, google analytics, seo, copywriting, email marketing, presentation, problem solving, english",intermediate,polyvalent,finance
+CV_0228,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- ux research
+- adobe illustrator
+- typography
+- figma
+- adobe photoshop
+- ui design
+- teamwork
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ux research, adobe illustrator, typography, figma, adobe photoshop, ui design, teamwork",junior,specialized,design
+CV_0229,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- firewalls
+- cryptography
+- risk assessment
+- siem
+- penetration testing
+- linux
+- teamwork
+- communication
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","firewalls, cryptography, risk assessment, siem, penetration testing, linux, teamwork, communication",junior,specialized,cybersecurity
+CV_0230,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- microservices
+- pandas
+- tableau
+- data visualization
+- testing
+- statistics
+- java
+- linux
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","microservices, pandas, tableau, data visualization, testing, statistics, java, linux, english, problem solving",junior,polyvalent,software
+CV_0231,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- accounting
+- sql
+- powerpoint
+- business intelligence
+- excel
+- risk analysis
+- teamwork
+- communication
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","accounting, sql, powerpoint, business intelligence, excel, risk analysis, teamwork, communication",junior,specialized,finance
+CV_0232,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- figma
+- adobe illustrator
+- ux research
+- wireframing
+- ui design
+- design systems
+- english
+- reporting
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","figma, adobe illustrator, ux research, wireframing, ui design, design systems, english, reporting",junior,specialized,design
+CV_0233,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- ui design
+- wireframing
+- design systems
+- figma
+- adobe photoshop
+- typography
+- ux research
+- adobe illustrator
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","ui design, wireframing, design systems, figma, adobe photoshop, typography, ux research, adobe illustrator, english",intermediate,specialized,design
+CV_0234,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- planning
+- project management
+- seo
+- email marketing
+- budgeting
+- scrum
+- crm
+- content marketing
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","planning, project management, seo, email marketing, budgeting, scrum, crm, content marketing, google analytics, copywriting, communication, presentation, english",intermediate,polyvalent,cybersecurity
+CV_0235,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- data visualization
+- etl
+- python
+- statistics
+- numpy
+- tableau
+- problem solving
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","data visualization, etl, python, statistics, numpy, tableau, problem solving",junior,specialized,data
+CV_0236,"CV Profile: senior candidate in software. Experience with relevant tools and projects. Skills:
+- linux
+- javascript
+- python
+- docker
+- microservices
+- rest api
+- java
+- testing
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","linux, javascript, python, docker, microservices, rest api, java, testing, git, cloud, reporting, english",senior,specialized,software
+CV_0237,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- data visualization
+- statistics
+- power bi
+- numpy
+- pandas
+- python
+- presentation
+- problem solving
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","data visualization, statistics, power bi, numpy, pandas, python, presentation, problem solving",junior,specialized,data
+CV_0238,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- powerpoint
+- risk analysis
+- accounting
+- financial modeling
+- excel
+- forecasting
+- sql
+- business intelligence
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","powerpoint, risk analysis, accounting, financial modeling, excel, forecasting, sql, business intelligence, communication, english",intermediate,specialized,finance
+CV_0239,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- social media
+- content marketing
+- seo
+- email marketing
+- copywriting
+- branding
+- teamwork
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","social media, content marketing, seo, email marketing, copywriting, branding, teamwork",junior,specialized,marketing
+CV_0240,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- wireframing
+- stakeholder management
+- testing
+- cloud
+- java
+- ux research
+- design systems
+- javascript
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","wireframing, stakeholder management, testing, cloud, java, ux research, design systems, javascript, git, typography, reporting, problem solving, teamwork",intermediate,polyvalent,marketing
+CV_0241,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- risk analysis
+- excel
+- forecasting
+- business intelligence
+- sql
+- financial modeling
+- teamwork
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","risk analysis, excel, forecasting, business intelligence, sql, financial modeling, teamwork",junior,specialized,finance
+CV_0242,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- python
+- power bi
+- etl
+- planning
+- data visualization
+- java
+- docker
+- pandas
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","python, power bi, etl, planning, data visualization, java, docker, pandas, budgeting, sql, problem solving, presentation, teamwork",intermediate,polyvalent,cybersecurity
+CV_0243,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- linux
+- rest api
+- javascript
+- testing
+- docker
+- microservices
+- cloud
+- python
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","linux, rest api, javascript, testing, docker, microservices, cloud, python, english",intermediate,specialized,software
+CV_0244,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- siem
+- cryptography
+- network security
+- penetration testing
+- incident response
+- risk assessment
+- firewalls
+- linux
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","siem, cryptography, network security, penetration testing, incident response, risk assessment, firewalls, linux, reporting, teamwork",intermediate,specialized,cybersecurity
+CV_0245,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- typography
+- network security
+- design systems
+- ux research
+- penetration testing
+- ui design
+- firewalls
+- siem
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","typography, network security, design systems, ux research, penetration testing, ui design, firewalls, siem, incident response, figma, teamwork, presentation, communication",intermediate,polyvalent,design
+CV_0246,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- network security
+- risk assessment
+- incident response
+- cryptography
+- penetration testing
+- firewalls
+- english
+- presentation
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","network security, risk assessment, incident response, cryptography, penetration testing, firewalls, english, presentation",junior,specialized,cybersecurity
+CV_0247,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- risk assessment
+- firewalls
+- penetration testing
+- linux
+- cryptography
+- incident response
+- network security
+- siem
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","risk assessment, firewalls, penetration testing, linux, cryptography, incident response, network security, siem, communication, problem solving",intermediate,specialized,cybersecurity
+CV_0248,"CV Profile: senior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- siem
+- incident response
+- linux
+- network security
+- penetration testing
+- cryptography
+- risk assessment
+- firewalls
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","siem, incident response, linux, network security, penetration testing, cryptography, risk assessment, firewalls, presentation, teamwork",senior,specialized,cybersecurity
+CV_0249,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- google analytics
+- branding
+- crm
+- social media
+- email marketing
+- copywriting
+- seo
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, google analytics, branding, crm, social media, email marketing, copywriting, seo, teamwork, communication",senior,specialized,marketing
+CV_0250,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- etl
+- machine learning
+- python
+- power bi
+- tableau
+- statistics
+- problem solving
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","etl, machine learning, python, power bi, tableau, statistics, problem solving",junior,specialized,data
+CV_0251,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- project management
+- budgeting
+- agile
+- communication
+- scrum
+- leadership
+- planning
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","stakeholder management, project management, budgeting, agile, communication, scrum, leadership, planning, problem solving",intermediate,specialized,management
+CV_0252,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- communication
+- project management
+- planning
+- leadership
+- stakeholder management
+- budgeting
+- english
+- problem solving
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","communication, project management, planning, leadership, stakeholder management, budgeting, english, problem solving",junior,specialized,management
+CV_0253,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- linux
+- docker
+- git
+- microservices
+- javascript
+- testing
+- teamwork
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","linux, docker, git, microservices, javascript, testing, teamwork",junior,specialized,software
+CV_0254,"CV Profile: intermediate candidate in management. Experience with relevant tools and projects. Skills:
+- planning
+- budgeting
+- communication
+- stakeholder management
+- agile
+- scrum
+- project management
+- leadership
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","planning, budgeting, communication, stakeholder management, agile, scrum, project management, leadership, reporting, english",intermediate,specialized,management
+CV_0255,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- social media
+- crm
+- seo
+- branding
+- copywriting
+- email marketing
+- google analytics
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, social media, crm, seo, branding, copywriting, email marketing, google analytics, teamwork",senior,specialized,marketing
+CV_0256,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- planning
+- stakeholder management
+- leadership
+- communication
+- scrum
+- problem solving
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, planning, stakeholder management, leadership, communication, scrum, problem solving",junior,specialized,management
+CV_0257,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- numpy
+- pandas
+- etl
+- data visualization
+- python
+- power bi
+- communication
+- english
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","numpy, pandas, etl, data visualization, python, power bi, communication, english",junior,specialized,data
+CV_0258,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- java
+- cloud
+- testing
+- microservices
+- javascript
+- docker
+- english
+- problem solving
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","java, cloud, testing, microservices, javascript, docker, english, problem solving",junior,specialized,software
+CV_0259,"CV Profile: intermediate candidate in finance. Experience with relevant tools and projects. Skills:
+- business intelligence
+- excel
+- financial modeling
+- accounting
+- risk analysis
+- sql
+- powerpoint
+- forecasting
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","business intelligence, excel, financial modeling, accounting, risk analysis, sql, powerpoint, forecasting, problem solving, teamwork",intermediate,specialized,finance
+CV_0260,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- numpy
+- adobe photoshop
+- python
+- sql
+- power bi
+- statistics
+- wireframing
+- cryptography
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","numpy, adobe photoshop, python, sql, power bi, statistics, wireframing, cryptography, ux research, data visualization, problem solving, english, communication",intermediate,polyvalent,data
+CV_0261,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- seo
+- excel
+- ui design
+- google analytics
+- typography
+- content marketing
+- sql
+- figma
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","seo, excel, ui design, google analytics, typography, content marketing, sql, figma, reporting, presentation",junior,polyvalent,software
+CV_0262,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- stakeholder management
+- machine learning
+- communication
+- budgeting
+- leadership
+- etl
+- tableau
+- agile
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","stakeholder management, machine learning, communication, budgeting, leadership, etl, tableau, agile, english, reporting, presentation",junior,polyvalent,data
+CV_0263,"CV Profile: senior candidate in design. Experience with relevant tools and projects. Skills:
+- risk assessment
+- sql
+- siem
+- financial modeling
+- business intelligence
+- risk analysis
+- powerpoint
+- forecasting
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","risk assessment, sql, siem, financial modeling, business intelligence, risk analysis, powerpoint, forecasting, penetration testing, cryptography, linux, firewalls, communication, english, presentation",senior,polyvalent,design
+CV_0264,"CV Profile: senior candidate in software. Experience with relevant tools and projects. Skills:
+- leadership
+- agile
+- planning
+- rest api
+- project management
+- microservices
+- budgeting
+- communication
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","leadership, agile, planning, rest api, project management, microservices, budgeting, communication, testing, java, javascript, cloud, reporting",senior,polyvalent,software
+CV_0265,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- leadership
+- budgeting
+- adobe illustrator
+- ui design
+- agile
+- wireframing
+- incident response
+- siem
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","leadership, budgeting, adobe illustrator, ui design, agile, wireframing, incident response, siem, reporting, communication, presentation",junior,polyvalent,software
+CV_0266,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- communication
+- content marketing
+- project management
+- typography
+- leadership
+- scrum
+- seo
+- agile
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","communication, content marketing, project management, typography, leadership, scrum, seo, agile, stakeholder management, budgeting, email marketing, branding, teamwork, presentation, reporting",senior,polyvalent,marketing
+CV_0267,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- linux
+- design systems
+- javascript
+- ui design
+- testing
+- adobe photoshop
+- adobe illustrator
+- figma
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","linux, design systems, javascript, ui design, testing, adobe photoshop, adobe illustrator, figma, risk assessment, firewalls, problem solving, teamwork",intermediate,polyvalent,data
+CV_0268,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- cloud
+- penetration testing
+- email marketing
+- seo
+- git
+- python
+- microservices
+- testing
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","cloud, penetration testing, email marketing, seo, git, python, microservices, testing, incident response, siem, teamwork, problem solving",intermediate,polyvalent,design
+CV_0269,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- rest api
+- cloud
+- docker
+- linux
+- javascript
+- git
+- python
+- java
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","rest api, cloud, docker, linux, javascript, git, python, java, presentation",intermediate,specialized,software
+CV_0270,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- branding
+- content marketing
+- copywriting
+- seo
+- social media
+- google analytics
+- email marketing
+- crm
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","branding, content marketing, copywriting, seo, social media, google analytics, email marketing, crm, teamwork",intermediate,specialized,marketing
+CV_0271,"CV Profile: senior candidate in software. Experience with relevant tools and projects. Skills:
+- cloud
+- linux
+- javascript
+- testing
+- rest api
+- java
+- python
+- docker
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","cloud, linux, javascript, testing, rest api, java, python, docker, microservices, git, presentation, communication",senior,specialized,software
+CV_0272,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- machine learning
+- tableau
+- etl
+- data visualization
+- python
+- sql
+- presentation
+- english
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","machine learning, tableau, etl, data visualization, python, sql, presentation, english",junior,specialized,data
+CV_0273,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- excel
+- business intelligence
+- forecasting
+- financial modeling
+- accounting
+- sql
+- reporting
+- teamwork
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","excel, business intelligence, forecasting, financial modeling, accounting, sql, reporting, teamwork",junior,specialized,finance
+CV_0274,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- statistics
+- tableau
+- numpy
+- machine learning
+- sql
+- python
+- power bi
+- data visualization
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","statistics, tableau, numpy, machine learning, sql, python, power bi, data visualization, teamwork, communication",intermediate,specialized,data
+CV_0275,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- ui design
+- seo
+- budgeting
+- email marketing
+- project management
+- leadership
+- figma
+- google analytics
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","ui design, seo, budgeting, email marketing, project management, leadership, figma, google analytics, english, communication",junior,polyvalent,management
+CV_0276,"CV Profile: junior candidate in software. Experience with relevant tools and projects. Skills:
+- numpy
+- statistics
+- design systems
+- ux research
+- etl
+- pandas
+- figma
+- wireframing
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","numpy, statistics, design systems, ux research, etl, pandas, figma, wireframing, reporting, presentation, communication",junior,polyvalent,software
+CV_0277,"CV Profile: senior candidate in marketing. Experience with relevant tools and projects. Skills:
+- machine learning
+- sql
+- tableau
+- wireframing
+- typography
+- ui design
+- statistics
+- adobe photoshop
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","machine learning, sql, tableau, wireframing, typography, ui design, statistics, adobe photoshop, adobe illustrator, ux research, figma, data visualization, presentation, communication, problem solving",senior,polyvalent,marketing
+CV_0278,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- content marketing
+- copywriting
+- crm
+- email marketing
+- seo
+- branding
+- social media
+- google analytics
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","content marketing, copywriting, crm, email marketing, seo, branding, social media, google analytics, teamwork, reporting",intermediate,specialized,marketing
+CV_0279,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- ux research
+- adobe illustrator
+- typography
+- figma
+- adobe photoshop
+- incident response
+- network security
+- ui design
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","ux research, adobe illustrator, typography, figma, adobe photoshop, incident response, network security, ui design, design systems, firewalls, communication, presentation",intermediate,polyvalent,software
+CV_0280,"CV Profile: intermediate candidate in data. Experience with relevant tools and projects. Skills:
+- seo
+- google analytics
+- data visualization
+- etl
+- numpy
+- content marketing
+- crm
+- power bi
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","seo, google analytics, data visualization, etl, numpy, content marketing, crm, power bi, sql, machine learning, teamwork, communication",intermediate,polyvalent,data
+CV_0281,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- excel
+- machine learning
+- design systems
+- etl
+- business intelligence
+- typography
+- numpy
+- figma
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","excel, machine learning, design systems, etl, business intelligence, typography, numpy, figma, reporting, problem solving, communication",junior,polyvalent,management
+CV_0282,"CV Profile: intermediate candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- firewalls
+- incident response
+- risk assessment
+- siem
+- cryptography
+- penetration testing
+- linux
+- network security
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","firewalls, incident response, risk assessment, siem, cryptography, penetration testing, linux, network security, communication",intermediate,specialized,cybersecurity
+CV_0283,"CV Profile: intermediate candidate in software. Experience with relevant tools and projects. Skills:
+- javascript
+- java
+- microservices
+- docker
+- git
+- linux
+- rest api
+- python
+Education: Bachelor's / Master's related to software. Soft skills: communication, teamwork.","javascript, java, microservices, docker, git, linux, rest api, python, problem solving, reporting",intermediate,specialized,software
+CV_0284,"CV Profile: senior candidate in data. Experience with relevant tools and projects. Skills:
+- excel
+- project management
+- agile
+- planning
+- budgeting
+- sql
+- powerpoint
+- risk analysis
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","excel, project management, agile, planning, budgeting, sql, powerpoint, risk analysis, accounting, stakeholder management, forecasting, leadership, presentation, problem solving",senior,polyvalent,data
+CV_0285,"CV Profile: intermediate candidate in marketing. Experience with relevant tools and projects. Skills:
+- powerpoint
+- financial modeling
+- sql
+- ui design
+- accounting
+- business intelligence
+- excel
+- adobe illustrator
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","powerpoint, financial modeling, sql, ui design, accounting, business intelligence, excel, adobe illustrator, figma, ux research, reporting, english",intermediate,polyvalent,marketing
+CV_0286,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- leadership
+- scrum
+- agile
+- budgeting
+- communication
+- project management
+- reporting
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","leadership, scrum, agile, budgeting, communication, project management, reporting",junior,specialized,management
+CV_0287,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- project management
+- sql
+- forecasting
+- planning
+- scrum
+- risk analysis
+- financial modeling
+- accounting
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","project management, sql, forecasting, planning, scrum, risk analysis, financial modeling, accounting, communication, english",junior,polyvalent,design
+CV_0288,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- financial modeling
+- sql
+- forecasting
+- powerpoint
+- accounting
+- risk analysis
+- presentation
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","financial modeling, sql, forecasting, powerpoint, accounting, risk analysis, presentation",junior,specialized,finance
+CV_0289,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- figma
+- wireframing
+- ui design
+- typography
+- ux research
+- adobe photoshop
+- presentation
+- problem solving
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","figma, wireframing, ui design, typography, ux research, adobe photoshop, presentation, problem solving",junior,specialized,design
+CV_0290,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- typography
+- figma
+- ux research
+- adobe illustrator
+- adobe photoshop
+- design systems
+- presentation
+- communication
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","typography, figma, ux research, adobe illustrator, adobe photoshop, design systems, presentation, communication",junior,specialized,design
+CV_0291,"CV Profile: senior candidate in data. Experience with relevant tools and projects. Skills:
+- data visualization
+- sql
+- pandas
+- etl
+- power bi
+- numpy
+- python
+- tableau
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","data visualization, sql, pandas, etl, power bi, numpy, python, tableau, statistics, machine learning, presentation",senior,specialized,data
+CV_0292,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- linux
+- firewalls
+- incident response
+- cryptography
+- risk assessment
+- penetration testing
+- reporting
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","linux, firewalls, incident response, cryptography, risk assessment, penetration testing, reporting",junior,specialized,cybersecurity
+CV_0293,"CV Profile: junior candidate in design. Experience with relevant tools and projects. Skills:
+- email marketing
+- linux
+- microservices
+- git
+- budgeting
+- communication
+- javascript
+- seo
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","email marketing, linux, microservices, git, budgeting, communication, javascript, seo, english, reporting, teamwork",junior,polyvalent,design
+CV_0294,"CV Profile: junior candidate in cybersecurity. Experience with relevant tools and projects. Skills:
+- penetration testing
+- incident response
+- linux
+- cryptography
+- firewalls
+- siem
+- presentation
+- reporting
+Education: Bachelor's / Master's related to cybersecurity. Soft skills: communication, teamwork.","penetration testing, incident response, linux, cryptography, firewalls, siem, presentation, reporting",junior,specialized,cybersecurity
+CV_0295,"CV Profile: junior candidate in management. Experience with relevant tools and projects. Skills:
+- agile
+- planning
+- communication
+- project management
+- stakeholder management
+- javascript
+- testing
+- python
+Education: Bachelor's / Master's related to management. Soft skills: communication, teamwork.","agile, planning, communication, project management, stakeholder management, javascript, testing, python, presentation, problem solving",junior,polyvalent,management
+CV_0296,"CV Profile: junior candidate in marketing. Experience with relevant tools and projects. Skills:
+- email marketing
+- crm
+- branding
+- copywriting
+- google analytics
+- content marketing
+- reporting
+Education: Bachelor's / Master's related to marketing. Soft skills: communication, teamwork.","email marketing, crm, branding, copywriting, google analytics, content marketing, reporting",junior,specialized,marketing
+CV_0297,"CV Profile: junior candidate in data. Experience with relevant tools and projects. Skills:
+- python
+- statistics
+- pandas
+- data visualization
+- sql
+- machine learning
+- teamwork
+- communication
+Education: Bachelor's / Master's related to data. Soft skills: communication, teamwork.","python, statistics, pandas, data visualization, sql, machine learning, teamwork, communication",junior,specialized,data
+CV_0298,"CV Profile: intermediate candidate in design. Experience with relevant tools and projects. Skills:
+- figma
+- ux research
+- typography
+- design systems
+- ui design
+- wireframing
+- adobe illustrator
+- adobe photoshop
+Education: Bachelor's / Master's related to design. Soft skills: communication, teamwork.","figma, ux research, typography, design systems, ui design, wireframing, adobe illustrator, adobe photoshop, presentation, communication",intermediate,specialized,design
+CV_0299,"CV Profile: junior candidate in finance. Experience with relevant tools and projects. Skills:
+- tableau
+- adobe photoshop
+- google analytics
+- crm
+- branding
+- wireframing
+- numpy
+- python
+Education: Bachelor's / Master's related to finance. Soft skills: communication, teamwork.","tableau, adobe photoshop, google analytics, crm, branding, wireframing, numpy, python, presentation, teamwork",junior,polyvalent,finance

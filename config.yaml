@@ -3,10 +3,11 @@
 # ===============================
 
 data:
+data:
   raw_cv_path: "data/raw/cv_raw.csv"
   raw_job_path: "data/raw/job_raw.csv"
   raw_edges_path: "data/raw/matches_raw.csv"
-
+  
   processed_cv_path: "data/processed/cv_clean.csv"
   processed_job_path: "data/processed/job_clean.csv"
   processed_edges_path: "data/processed/edges.csv"
