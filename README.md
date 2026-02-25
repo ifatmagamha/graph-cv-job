@@ -1,6 +1,6 @@
 # Graph-based CV-Job Mining Project
 
-Ce projet vise à modéliser et analyser les interactions entre Curriculum Vitae (CV) et Offres d'Emploi (Jobs) sous forme de graphe biparti. L'objectif final est d'améliorer le matching via des techniques de link prediction et de node classification enrichies par des LLM.
+Ce projet vise à modéliser et analyser les interactions entre CV et Offres d'Emploi (Jobs) sous forme de graphe biparti. L'objectif final est d'améliorer le matching via des techniques de link prediction et de node classification enrichies par des LLM.
 
 ## Architecture Globale
 
