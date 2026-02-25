@@ -1,0 +1,28 @@
+# Environment
+.env
+venv/
+
+# Cache
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data & Models (Large Files)
+data/raw/
+data/processed/
+data/embeddings/
+models/
+results/*.graphml
+results/*.csv
+results/*.npy
+results/plots/
+
+# Tracking
+mlruns/
+.mlflow/
+
+# OS
+.DS_Store
+Thumbs.db
+
+lib/

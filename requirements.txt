@@ -1,39 +1,27 @@
-# ===============================
 # Core
-# ===============================
 numpy
 pandas
 scipy
-
-# ===============================
-# Graph Mining
-# ===============================
-networkx
-python-louvain
-
-# ===============================
-# Machine Learning
-# ===============================
 scikit-learn
-xgboost
+networkx
+pyarrow
+fastparquet
 
-# ===============================
-# NLP / Embeddings
-# ===============================
+# ML & IR
 sentence-transformers
-transformers
-torch
+faiss-cpu
+mlflow
+joblib
 
-# ===============================
-# Visualization
-# ===============================
+# Dashboard & Viz
+streamlit
+streamlit-pyvis
+pyvis
 matplotlib
 seaborn
-plotly
 
-# ===============================
-# Utilities
-# ===============================
-tqdm
+# LLM
+google-generativeai
+python-dotenv
+hydra-core
 pyyaml
-joblib
