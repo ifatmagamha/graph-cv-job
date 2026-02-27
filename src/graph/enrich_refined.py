@@ -30,7 +30,6 @@ def enrich_graph(G, model, cv_emb, job_emb, threshold=0.9):
                 
                 # We use a simple feature vector for the prediction
                 # [score_pa, score_paths_3, degree_cv, degree_job, score_sem]
-                # Note: paths_3 is slow, let's use a subset or just semantic + PA for the candidate screening
                 if sem > 0.8: # Pre-filter for efficiency
                     # Precise features
                     paths_3 = 0

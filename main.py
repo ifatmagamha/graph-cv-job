@@ -34,7 +34,7 @@ def main():
     # 8. Generation of Final Plots
     if not run_script("src/evaluation/final_plots.py"): return
 
-    print("\n✅ Full pipeline executed successfully!")
+    print("\n Full pipeline executed successfully!")
     print("Run 'streamlit run app.py' to explore the interactive dashboard.")
 
 if __name__ == "__main__":

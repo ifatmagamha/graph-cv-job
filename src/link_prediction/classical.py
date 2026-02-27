@@ -12,10 +12,6 @@ def compute_refined_structural_metrics(G, pairs):
     results = []
     print(f"Computing structural scores for {len(pairs)} pairs...")
     
-    # Precompute Katz Centrality or similar for global prominence
-    # Note: Katz centrality is for nodes, we need it for edges
-    # For now, let's use Preferential Attachment and Bipartite Common Neighbors
-    
     for u, v in pairs:
         if u in G and v in G:
             # 1. Preferential Attachment: deg(u) * deg(v) 
@@ -23,11 +19,7 @@ def compute_refined_structural_metrics(G, pairs):
             pa = G.degree(u) * G.degree(v)
             
             # 2. Bipartite Common Neighbors (Paths of length 3)
-            # Neighbors of CV u are Jobs. Neighbors of those Jobs are other CVs.
-            # If Job v is a neighbor of those other CVs, it's a "friend of a friend".
-            # This is hard to compute directly with nx.common_neighbors.
-            # Let's use: intersection of (neighbors of neighbors of u) and {v}
-            # Or simply: sum of common neighbors (CVs) between Job v and Job_k (neighbors of u)
+            # simply: sum of common neighbors (CVs) between Job v and Job_k (neighbors of u)
             
             u_neighbors = set(G.neighbors(u))
             v_neighbors = set(G.neighbors(v))
@@ -36,9 +28,6 @@ def compute_refined_structural_metrics(G, pairs):
             # Standard approach: look at number of paths of length 3 between u and v
             paths_len_3 = 0
             for neighbor_job in u_neighbors:
-                # paths: u -> neighbor_job -> other_cv -> v
-                # This doesn't make sense if v is a Job.
-                # Correct: u -> neighbor_job -> other_cv -> v_is_job
                 for other_cv in G.neighbors(neighbor_job):
                     if G.has_edge(other_cv, v):
                         paths_len_3 += 1

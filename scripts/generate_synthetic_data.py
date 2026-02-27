@@ -192,7 +192,7 @@ cv_out.to_csv(os.path.join(OUT_DIR, "cv_raw.csv"), index=False)
 job_out.to_csv(os.path.join(OUT_DIR, "job_raw.csv"), index=False)
 edges_df[["cv_id", "job_id", "label"]].to_csv(os.path.join(OUT_DIR, "matches_raw.csv"), index=False)
 
-print("✅ Synthetic datasets generated:")
+print(" Synthetic datasets generated:")
 print(f"- {OUT_DIR}/cv_raw.csv   (rows={len(cv_out)})")
 print(f"- {OUT_DIR}/job_raw.csv  (rows={len(job_out)})")
 print(f"- {OUT_DIR}/matches_raw.csv (rows={len(edges_df)})")

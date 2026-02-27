@@ -1,6 +1,6 @@
 # Environment
 .env
-venv/
+venv/*
 
 # Cache
 __pycache__/
@@ -18,11 +18,11 @@ results/*.npy
 results/plots/
 
 # Tracking
-mlruns/
-.mlflow/
+mlruns/*
+.mlflow/*
 
 # OS
 .DS_Store
 Thumbs.db
 
-lib/
+lib/*
